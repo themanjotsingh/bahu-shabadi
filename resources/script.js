@@ -38,3 +38,5 @@ function rightopenNav() {
 function rightcloseNav() {
     document.getElementById("myrightnav").style.width = "0";
 }
+
+

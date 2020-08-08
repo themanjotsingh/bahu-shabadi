@@ -12,17 +12,18 @@ $.getJSON(
         lineslist = data[shakanum - 1].lines
         lines = lineslist.split(",")
 
+        lines.forEach(myLine)
 
-        for (var i = 0; i < lines.length; i++) {
-            var each = lines[i];
+        function myLine(item, index) {
 
-            link = apiline + each;
+            link = apiline + item;
 
             $.getJSON(
                 link,
                 function (data) {
+                    which = index + "bani"
 
-                    var div = document.getElementById("bani1");
+                    var div = document.getElementById(which);
 
                     var shabad = document.createElement('p');
                     shabad.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
@@ -31,22 +32,27 @@ $.getJSON(
                 });
         };
 
+
         aftershabadslist = data[shakanum - 1].shabads
         aftershabads = aftershabadslist.split(",")
 
-        for (var i = 0; i < aftershabads.length; i++) {
-            var each = aftershabads[i];
+        aftershabads.forEach(myShabad)
 
-            link = apishabad + each;
+        function myShabad(item, index) {
+
+            link = apishabad + item;
 
             $.getJSON(
                 link,
                 function (data) {
 
                     for (var i = 0; i < data.shabad.length; i++) {
+
                         var each = data.shabad[i];
 
-                        var div = document.getElementById("bani2");
+                        which = "bani" + index;
+
+                        var div = document.getElementById(which);
 
                         var shabad = document.createElement('p');
                         shabad.appendChild(document.createTextNode(each.line.gurmukhi.unicode));
@@ -55,8 +61,9 @@ $.getJSON(
 
                     }
 
-                });
-        };
 
 
-    });
+                })
+        }
+
+    })
