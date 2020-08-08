@@ -1,5 +1,5 @@
 $.getJSON(
-    "   http://github.manjotsingh.xyz/Bahu-Shabadi/json/shakas.json",
+    "https://adv.sikhresources.site/json/shakas.json",
     function (data) {
 
         for (var i = 0; i < data.length; i++) {
