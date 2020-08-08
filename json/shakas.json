@@ -1,98 +1,98 @@
 [
  {
    "shaka": 1,
-   "link": "/shaka1.html"
+   "link": "/shaka.html?shaka=1"
  },
  {
    "shaka": 2,
-   "link": "/shaka2.html"
+   "link": "/shaka.html?shaka=2"
  },
  {
    "shaka": 3,
-   "link": "/shaka3.html"
+   "link": "/shaka.html?shaka=3"
  },
  {
    "shaka": 4,
-   "link": "/shaka4.html"
+   "link": "/shaka.html?shaka=4"
  },
  {
    "shaka": 5,
-   "link": "/shaka5.html"
+   "link": "/shaka.html?shaka=5"
  },
  {
    "shaka": 6,
-   "link": "/shaka6.html"
+   "link": "/shaka.html?shaka=6"
  },
  {
    "shaka": 7,
-   "link": "/shaka7.html"
+   "link": "/shaka.html?shaka=7"
  },
  {
    "shaka": 8,
-   "link": "/shaka8.html"
+   "link": "/shaka.html?shaka=8"
  },
  {
    "shaka": 9,
-   "link": "/shaka9.html"
+   "link": "/shaka.html?shaka=9"
  },
  {
    "shaka": 10,
-   "link": "/shaka10.html"
+   "link": "/shaka.html?shaka=10"
  },
  {
    "shaka": 11,
-   "link": "/shaka11.html"
+   "link": "/shaka.html?shaka=11"
  },
  {
    "shaka": 12,
-   "link": "/shaka12.html"
+   "link": "/shaka.html?shaka=12"
  },
  {
    "shaka": 13,
-   "link": "/shaka13.html"
+   "link": "/shaka.html?shaka=13"
  },
  {
    "shaka": 14,
-   "link": "/shaka14.html"
+   "link": "/shaka.html?shaka=14"
  },
  {
    "shaka": 15,
-   "link": "/shaka15.html"
+   "link": "/shaka.html?shaka=15"
  },
  {
    "shaka": 16,
-   "link": "/shaka16.html"
+   "link": "/shaka.html?shaka=16"
  },
  {
    "shaka": 17,
-   "link": "/shaka17.html"
+   "link": "/shaka.html?shaka=17"
  },
  {
    "shaka": 18,
-   "link": "/shaka18.html"
+   "link": "/shaka.html?shaka=18"
  },
  {
    "shaka": 19,
-   "link": "/shaka19.html"
+   "link": "/shaka.html?shaka=19"
  },
  {
    "shaka": 20,
-   "link": "/shaka20.html"
+   "link": "/shaka.html?shaka=20"
  },
  {
    "shaka": 21,
-   "link": "/shaka21.html"
+   "link": "/shaka.html?shaka=21"
  },
  {
    "shaka": 22,
-   "link": "/shaka22.html"
+   "link": "/shaka.html?shaka=22"
  },
  {
    "shaka": 23,
-   "link": "/shaka23.html"
+   "link": "/shaka.html?shaka=23"
  },
  {
    "shaka": 24,
-   "link": "/shaka24.html"
+   "link": "/shaka.html?shaka=24"
  }
 ]
