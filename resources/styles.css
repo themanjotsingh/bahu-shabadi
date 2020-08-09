@@ -5,14 +5,31 @@ body {
 .titlecont {
     display: grid;
     place-items: center;
+      text-decoration: none;
 }
+
+.titlecont a:link{
+ color: #000
+}
+
+.titlecont a:visited{
+ color: #000
+}
+
+.titlecont a:hover{
+ color: #000
+}
+
+.titlecont a:active{
+ color: #000
+}
+
 
 
 .buttoncontainer {
     display: flex;
     justify-content: space-around;
 }
-
 
 img {
     width: 30px;
@@ -45,6 +62,10 @@ left nav
 }
 
 .leftsidenav a:hover {
+    color: #f1f1f1;
+}
+
+.leftsidenav .active {
     color: #f1f1f1;
 }
 
@@ -99,6 +120,7 @@ right nav
     color: #f1f1f1;
 }
 
+
 .rightsidenav .closebtn {
     position: absolute;
     top: 0;
@@ -120,6 +142,56 @@ right nav
 
 .shabad {
     font-weight: bold;
-     text-align: center; 
+    text-align: center;
 }
 
+.larivaar {
+    font-weight: bold;
+    text-align: center;
+}
+
+.punjabi {
+    text-align: center;
+}
+
+.english {
+    text-align: center;
+}
+
+
+
+#backnext {
+    display: flex;
+    justify-content: space-around;
+}
+
+#backnext button {
+    background-color: #000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+#toggles {
+    display: flex;
+    justify-content: center;
+}
+
+#toggles button {
+    background-color: #000;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+.hidden{
+    display: none;
+}

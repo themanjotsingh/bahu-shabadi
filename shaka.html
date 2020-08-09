@@ -10,7 +10,6 @@
 
     <link rel="stylesheet" href="resources/styles.css">
     <script src="resources/script.js"></script>
-    <script src="resources/shakas.js"></script>
 
     <link rel="apple-touch-icon" sizes="120x120" href="/resources/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/resources/favicon-32x32.png">
@@ -37,13 +36,21 @@
     <div id="contents">
 
         <div class="titlecont">
-            <h2>Assa Dee Vaar</h2>
+            <a class="titlecont" href="/">
+                <h2>Assa Dee Vaar</h2>
+            </a>
 
         </div>
         <div class=buttoncontainer>
             <span id="leftbutton" style="font-size:30px;cursor:pointer" onclick="leftopenNav()">&#9776; ਸ਼ਕਾ</span>
-            <span id="rightbutton" style="font-size:30px;cursor:pointer" onclick="rightopenNav()">&#9776; ਸ਼ਬਦ</span>
+            <span id="rightbutton" style="font-size:30px;cursor:pointer" onclick="rightopenNav()">ਸ਼ਬਦ &#9776; </span>
 
+        </div>
+        
+        <div id="toggles">
+            <button id="shabad" onclick="togglelarivaar()"></button>
+            <button id="english" onclick="toggleenglish()">English</button>
+            <button id="punjabi" onclick="togglepunjabi()">Punjabi</button>
         </div>
 
         <div id="0bani">
@@ -91,11 +98,23 @@
         <div id="bani9">
         </div>
 
+        <div id="backnext">
+
+
+            <a id="back"><button type="button">BACK</button></a>
+            <a id="next"><button type="button">NEXT</button></a>
+
+
+        </div>
+        <br>
+
+        
 
 
 
 
 
     </div>
+    <script src="resources/shakas.js"></script>
 
 </body></html>
