@@ -20,7 +20,7 @@ if (shakanum > 24) {
 
 
 $.getJSON(
-    "shabads.json",
+    "https://adv.sikhresources.site/json/shabads.json",
     function (data) {
 
         try {
