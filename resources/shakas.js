@@ -5,7 +5,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const myParam = urlParams.get('shaka');
 shakanum = myParam
 
-if (shakanum == null) {
+if (shakanum == "null") {
     window.location.replace("/");
 }
 
@@ -17,7 +17,12 @@ if (shakanum > 24) {
     window.location.replace("/");
 }
 
-
+function setcookie(cookieName, cookieValue) {
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000 * 24 * 14);
+    document.cookie = cookieName + "=" + encodeURI(cookieValue) + ";expires=" + expire.toGMTString();
+}
 
 $.getJSON(
     "https://adv.sikhresources.site/json/shabads.json",
@@ -27,7 +32,7 @@ $.getJSON(
             lineslist = data[shakanum - 1].lines
             lines = lineslist.split(",")
         } catch (err) {
-            console.log("nolines")
+
             lines = []
         }
         lines.forEach(myLine)
@@ -46,23 +51,25 @@ $.getJSON(
                     var shabad = document.createElement('p');
                     shabad.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
                     if (getCookie("shabad") == "lv") {
-                        shabad.className = "shabad hidden"
+                        shabad.className = "shabad condensed"
                     } else if (getCookie("shabad") == "ps") {
                         shabad.className = "shabad"
+                    } else if (getCookie("shabad") == "lva") {
+                        shabad.className = "shabad condensed assisted"
                     }
 
                     div.appendChild(shabad);
+                    /*
 
-
-                    var larivaar = document.createElement('p');
-                    larivaar.appendChild(document.createTextNode(data.line.larivaar.unicode));
-                    if (getCookie("shabad") == "ps") {
-                        larivaar.className = "larivaar hidden"
-                    } else if (getCookie("shabad") == "lv") {
-                        larivaar.className = "larivaar"
-                    }
-                    div.appendChild(larivaar);
-
+                                        var larivaar = document.createElement('p');
+                                        larivaar.appendChild(document.createTextNode(data.line.larivaar.unicode));
+                                        if (getCookie("shabad") == "ps") {
+                                            larivaar.className = "larivaar hidden"
+                                        } else if (getCookie("shabad") == "lv") {
+                                            larivaar.className = "larivaar"
+                                        }
+                                        div.appendChild(larivaar);
+                    */
 
                     var punjabi = document.createElement('p');
                     punjabi.appendChild(document.createTextNode(data.line.translation.punjabi.default.unicode));
@@ -91,7 +98,7 @@ $.getJSON(
         };
 
 
-        aftershabadslist = data[shakanum - 1].shabads
+        aftershabadslist = data[shakanum - 1].sp
         aftershabads = aftershabadslist.split(",")
 
         aftershabads.forEach(myShabad)
@@ -115,13 +122,16 @@ $.getJSON(
                         var shabad = document.createElement('p');
                         shabad.appendChild(document.createTextNode(each.line.gurmukhi.unicode));
                         if (getCookie("shabad") == "lv") {
-                            shabad.className = "shabad hidden"
+                            shabad.className = "shabad condensed"
                         } else if (getCookie("shabad") == "ps") {
                             shabad.className = "shabad"
+                        } else if (getCookie("shabad") == "lva") {
+                            shabad.className = "shabad condensed assisted"
+                            $(".shabad").lettering('words');
                         }
                         div.appendChild(shabad);
 
-
+                        /*
                         var larivaar = document.createElement('p');
                         larivaar.appendChild(document.createTextNode(each.line.larivaar.unicode));
                         if (getCookie("shabad") == "ps") {
@@ -131,13 +141,15 @@ $.getJSON(
                         }
                         div.appendChild(larivaar);
 
-
+*/
                         var punjabi = document.createElement('p');
                         punjabi.appendChild(document.createTextNode(each.line.translation.punjabi.default.unicode));
                         if (getCookie("punjabi") == "no") {
                             punjabi.className = "punjabi hidden"
                         } else if (getCookie("punjabi") == "yes") {
                             punjabi.className = "punjabi"
+                            
+        
                         }
                         div.appendChild(punjabi);
 
@@ -165,23 +177,38 @@ document.getElementById("back").setAttribute("href", backlink);
 nextlink = "/shaka.html?shaka=" + (parseInt(shakanum) + 1)
 document.getElementById("next").setAttribute("href", nextlink);
 
-
 function togglelarivaar() {
 
-
+    //if at larivaar, going to assisted larivaar
     if (getCookie("shabad") == "lv") {
-        $(".shabad").addClass("hidden");
-        document.cookie = "shabad=ps; expires=Thu, 18 Dec 2023 12:00:00 UTC";
-        $(".larivaar").removeClass("hidden");
-        document.getElementById("shabad").innerHTML = "Pad Shed";
 
+        $(".shabad").addClass("condensed");
+        $(".shabad").addClass("assisted");
+
+        //$(".shabad").removeClass("hidden");
+        document.getElementById("shabad").innerHTML = "Pad Shed";
+        document.cookie = "shabad=lva; expires=Thu, 18 Dec 2023 12:00:00 UTC";
+
+        $(".shabad").lettering('words');
+
+
+
+        //if at assisted larivaar, going to pad shed
+    } else if (getCookie("shabad") == "lva") {
+        $(".shabad").removeClass("condensed");
+        $(".shabad").removeClass("assisted");
+        //$(".larivaar").addClass("hidden");
+        //$(".shabad").removeClass("hidden");
+        document.getElementById("shabad").innerHTML = "Larivaar";
+        document.cookie = "shabad=ps; expires=Thu, 18 Dec 2023 12:00:00 UTC";
+
+        //if at pad shed, going to larivaar
 
     } else if (getCookie("shabad") == "ps") {
-        $(".larivaar").addClass("hidden");
-
+        $(".shabad").addClass("condensed");
+        //$(".larivaar").removeClass("hidden");
+        document.getElementById("shabad").innerHTML = "Larivaar Assisted";
         document.cookie = "shabad=lv; expires=Thu, 18 Dec 2023 12:00:00 UTC";
-        $(".shabad").removeClass("hidden");
-        document.getElementById("shabad").innerHTML = "Larivaar";
 
     }
 
@@ -200,6 +227,9 @@ function toggleenglish() {
         document.cookie = "english=yes; expires=Thu, 18 Dec 2023 12:00:00 UTC";
         $(".english").removeClass("hidden");
     }
+
+
+
 
 
 
@@ -226,15 +256,18 @@ function togglepunjabi() {
 
 
 
-if (getCookie("shabad") == "lv") {
+if (getCookie("shabad") == "lva") {
     document.getElementById("shabad").innerHTML = "Pad Shed";
 
 } else if (getCookie("shabad") == "ps") {
-
     document.getElementById("shabad").innerHTML = "Larivaar";
 
-
-
+} else if (getCookie("shabad") == "lv") {
+    document.getElementById("shabad").innerHTML = "Larivaar Assisted";
 }
 
-console.log(getCookie("shabad"))
+if (shakanum == "null") {
+
+} else {
+    setcookie("last", shakanum)
+}

@@ -5,23 +5,28 @@ body {
 .titlecont {
     display: grid;
     place-items: center;
-      text-decoration: none;
+    text-decoration: none;
 }
 
-.titlecont a:link{
- color: #000
+.homepage {
+    display: grid;
+    place-items: center;
 }
 
-.titlecont a:visited{
- color: #000
+.titlecont a:link {
+    color: #000
 }
 
-.titlecont a:hover{
- color: #000
+.titlecont a:visited {
+    color: #000
 }
 
-.titlecont a:active{
- color: #000
+.titlecont a:hover {
+    color: #000
+}
+
+.titlecont a:active {
+    color: #000
 }
 
 
@@ -143,19 +148,41 @@ right nav
 .shabad {
     font-weight: bold;
     text-align: center;
+    font-size: 1.3em;
+
 }
+
+.condensed {
+    word-spacing: -0.3em;
+}
+
+
+.assisted [class*="word"]:nth-child(odd){
+    color: black;
+}
+
+.assisted [class*="word"]:nth-child(even){
+    color: orange;
+}
+
+
 
 .larivaar {
     font-weight: bold;
     text-align: center;
+    font-size: 1.3em;
 }
+
 
 .punjabi {
     text-align: center;
+
 }
+
 
 .english {
     text-align: center;
+
 }
 
 
@@ -166,6 +193,7 @@ right nav
 }
 
 #backnext button {
+    
     background-color: #000;
     border: none;
     color: white;
@@ -173,6 +201,7 @@ right nav
     text-align: center;
     text-decoration: none;
     display: inline-block;
+
 }
 
 #toggles {
@@ -192,6 +221,12 @@ right nav
 
 }
 
-.hidden{
-    display: none;
+.hidden {
+    display: none !important;
 }
+
+p {
+    display: block;
+}
+
+

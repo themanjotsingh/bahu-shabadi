@@ -9,7 +9,7 @@ $.getJSON(
             var shaka = data[i];
 
             var shakasdiv = document.getElementById("myleftnav");
-            
+
             var link = document.createElement('a');
             if (whatsq == shaka.shaka) {
                 link.className = "active"
@@ -17,15 +17,9 @@ $.getJSON(
             link.setAttribute("href", shaka.link);
             link.appendChild(document.createTextNode("ਸ਼ਕਾ " + shaka.shaka));
             shakasdiv.appendChild(link);
-
         }
-
     }
-
 )
-
-
-
 
 function leftopenNav() {
     document.getElementById("myleftnav").style.width = "250px";
@@ -43,6 +37,7 @@ function rightopenNav() {
 function rightcloseNav() {
     document.getElementById("myrightnav").style.width = "0";
 }
+
 function getCookie(cname) {
     var name = cname + "=";
     var decodedCookie = decodeURIComponent(document.cookie);
@@ -72,4 +67,19 @@ if (getCookie("english") == "") {
 if (getCookie("punjabi") == "") {
     document.cookie = "punjabi=no; expires=Thu, 18 Dec 2023 12:00:00 UTC";
 
+}
+
+if (location.pathname == "/index.html" || location.pathname == "/" ) {
+
+    if (getCookie("last") == "") {
+        console.log("no past")
+    } else if (getCookie("last")) {
+
+
+        var div = document.getElementById("leftoff");
+        var a = document.createElement('a');
+        a.appendChild(document.createTextNode("Continue from where you left off: Shaka " + getCookie("last")));
+        a.setAttribute("href", "/shaka.html?shaka=" + getCookie("last"))
+        div.appendChild(a);
+    }
 }
