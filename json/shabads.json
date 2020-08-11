@@ -15,7 +15,8 @@
     "shaka": "three",
     "lines": "FSJ9,DW5K,YTAB,QZ8P",
     "sp": "3Z2,S42,EGF",
-    "shabads": null
+    "shabads": [{"id":"DX1","show":"ਹੇ ਗੋਬਿੰਦ ਹੇ ਗੋਪਾਲ ਹੇ ਦਇਆਲ ਲਾਲ ॥੧॥ ਰਹਾਉ ॥"}, {"id":"X8W","show":"ਜਗਤੁ ਜਲੰਦਾ ਰਖਿ ਲੈ ਆਪਣੀ ਕਿਰਪਾ ਧਾਰਿ ॥"}]
+    
   },
   {
     "shaka": "four",
@@ -38,7 +39,7 @@
   {
     "shaka": "seven",
     "lines": "2KEE,AZMN,JNUZ,6PBQ",
-    "sp": "337,34U,WF8",
+    "sp": "337,3FU,WF8",
     "shabads": null
   },
   {
@@ -61,7 +62,7 @@
   },
   {
     "shaka": "eleven",
-    "lines": "CLG9,OPZ5,4Q5S,S6V8",
+    "lines": "CLG9,0PZ5,4Q7S,S6V8",
     "sp": "71U,EZG,8AP,G3A",
     "shabads": null
   },
@@ -80,7 +81,7 @@
   {
     "shaka": "fourteen",
     "lines": "XQZJ,VV9Q,VPQC,S3GU",
-    "sp": "76A,WMX,G32",
+    "sp": "76A,VMX,GT2",
     "shabads": null
   },
   {

@@ -83,3 +83,15 @@ if (location.pathname == "/index.html" || location.pathname == "/" ) {
         div.appendChild(a);
     }
 }
+
+$.getJSON(
+    "https://api.banidb.com/v2/banis/90",
+    function (data) {
+
+        for (var i = 0; i < data.length; i++) {
+            var shaka = data[i];
+            
+            console.log("hi")
+        }
+    }
+)

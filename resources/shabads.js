@@ -3,19 +3,10 @@ apishabad = "https://api.gurbaninow.com/v2/shabad/"
 
 const urlParams = new URLSearchParams(window.location.search);
 const myParam = urlParams.get('shaka');
+shabadid = urlParams.get('shabadid');
 shakanum = myParam
 
-if (shakanum == "null") {
-    window.location.replace("/");
-}
 
-if (shakanum < 1) {
-    window.location.replace("/");
-}
-
-if (shakanum > 24) {
-    window.location.replace("/");
-}
 
 function setcookie(cookieName, cookieValue) {
     var today = new Date();
@@ -24,88 +15,7 @@ function setcookie(cookieName, cookieValue) {
     document.cookie = cookieName + "=" + encodeURI(cookieValue) + ";expires=" + expire.toGMTString();
 }
 
-$.getJSON(
-    "json/shabads.json",
-    function (data) {
-
-        try {
-            lineslist = data[shakanum - 1].lines
-            lines = lineslist.split(",")
-        } catch (err) {
-
-            lines = []
-        }
-        lines.forEach(myLine)
-
-        function myLine(item, index) {
-
-            link = apiline + item;
-
-            $.getJSON(
-                link,
-                function (data) {
-                    which = index + "bani"
-
-                    var div = document.getElementById(which);
-
-                    var shabad = document.createElement('p');
-                    shabad.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
-                    if (getCookie("shabad") == "lv") {
-                        shabad.className = "shabad condensed"
-                    } else if (getCookie("shabad") == "ps") {
-                        shabad.className = "shabad"
-                    } else if (getCookie("shabad") == "lva") {
-                        shabad.className = "shabad condensed assisted"
-                    }
-
-                    div.appendChild(shabad);
-                    /*
-
-                                        var larivaar = document.createElement('p');
-                                        larivaar.appendChild(document.createTextNode(data.line.larivaar.unicode));
-                                        if (getCookie("shabad") == "ps") {
-                                            larivaar.className = "larivaar hidden"
-                                        } else if (getCookie("shabad") == "lv") {
-                                            larivaar.className = "larivaar"
-                                        }
-                                        div.appendChild(larivaar);
-                    */
-
-                    var punjabi = document.createElement('p');
-                    punjabi.appendChild(document.createTextNode(data.line.translation.punjabi.default.unicode));
-                    if (getCookie("punjabi") == "no") {
-                        punjabi.className = "punjabi hidden"
-                    } else if (getCookie("punjabi") == "yes") {
-                        punjabi.className = "punjabi"
-                    }
-                    div.appendChild(punjabi);
-
-
-                    var english = document.createElement('p');
-                    english.appendChild(document.createTextNode(data.line.translation.english.default));
-                    if (getCookie("english") == "no") {
-                        english.className = "english hidden"
-                    } else if (getCookie("english") == "yes") {
-                        english.className = "english"
-                    }
-                    div.appendChild(english);
-
-
-
-
-
-                });
-        };
-
-
-        aftershabadslist = data[shakanum - 1].sp
-        aftershabads = aftershabadslist.split(",")
-
-        aftershabads.forEach(myShabad)
-
-        function myShabad(item, index) {
-
-            link = apishabad + item;
+            link = apishabad + shabadid;
 
             $.getJSON(
                 link,
@@ -115,9 +25,8 @@ $.getJSON(
 
                         var each = data.shabad[i];
 
-                        which = "bani" + index;
 
-                        var div = document.getElementById(which);
+                        var div = document.getElementById("bani");
 
                         var shabad = document.createElement('p');
                         shabad.appendChild(document.createTextNode(each.line.gurmukhi.unicode));
@@ -131,17 +40,6 @@ $.getJSON(
                         }
                         div.appendChild(shabad);
 
-                        /*
-                        var larivaar = document.createElement('p');
-                        larivaar.appendChild(document.createTextNode(each.line.larivaar.unicode));
-                        if (getCookie("shabad") == "ps") {
-                            larivaar.className = "larivaar hidden"
-                        } else if (getCookie("shabad") == "lv") {
-                            larivaar.className = "larivaar"
-                        }
-                        div.appendChild(larivaar);
-
-*/
                         var punjabi = document.createElement('p');
                         punjabi.appendChild(document.createTextNode(each.line.translation.punjabi.default.unicode));
                         if (getCookie("punjabi") == "no") {
@@ -167,17 +65,16 @@ $.getJSON(
                     }
 
                 })
-        }
-
-    });
+        
 
 
-backlink = "/shaka.html?shaka=" + (parseInt(shakanum) - 1)
+
+backlink = "/shaka.html?shaka=" + (shakanum)
 document.getElementById("backtop").setAttribute("href", backlink);
+document.getElementById("backtop").innerHTML = "Go back to Shaka #" + shakanum
 document.getElementById("backbottom").setAttribute("href", backlink);
-nextlink = "/shaka.html?shaka=" + (parseInt(shakanum) + 1)
-document.getElementById("nexttop").setAttribute("href", nextlink);
-document.getElementById("nextbottom").setAttribute("href", nextlink);
+document.getElementById("backbottom").innerHTML = "Go back to Shaka #" + shakanum
+
 
 function togglelarivaar() {
 
@@ -268,42 +165,32 @@ if (getCookie("shabad") == "lva") {
     document.getElementById("shabad").innerHTML = "Larivaar Assisted";
 }
 
-if (shakanum == "null") {
 
-} else {
-    setcookie("last", shakanum)
-}
 
 $.getJSON(
     "json/shabads.json",
     function (data) {
 
+
         var list = data[shakanum - 1].shabads
 
-        try {
-
-            for (var i = 0; i < list.length; i++) {
-                var shaka = list[i];
+        for (var i = 0; i < list.length; i++) {
+            var shaka = list[i];
 
 
-                var shakasdiv = document.getElementById("myrightnav");
+            var shakasdiv = document.getElementById("myrightnav");
 
-                var link = document.createElement('a');
+            var link = document.createElement('a');
 
-                theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shaka.id
+            theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shaka.id
+
+            console.log(shaka)
 
 
+            link.setAttribute("href", theurl);
+            link.appendChild(document.createTextNode( shaka.show));
+            shakasdiv.appendChild(link);
 
-                link.setAttribute("href", theurl);
-                link.appendChild(document.createTextNode(shaka.show));
-                shakasdiv.appendChild(link);
-
-                
-
-            }
-
-        } catch (err) {
-            console.log("no shabads")
         }
     }
 )

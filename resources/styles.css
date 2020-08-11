@@ -72,6 +72,7 @@ left nav
 
 .leftsidenav .active {
     color: #f1f1f1;
+    text-decoration: underline;
 }
 
 .leftsidenav .closebtn {
@@ -80,6 +81,10 @@ left nav
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+}
+
+.leftsidenav a:last-child {
+    margin-bottom: 100px;
 }
 
 @media screen and (max-height: 450px) {
@@ -115,7 +120,7 @@ right nav
 .rightsidenav a {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: #818181;
     display: block;
     transition: 0.3s;
@@ -132,6 +137,10 @@ right nav
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+}
+
+.rightsidenav a:last-child {
+    margin-bottom: 100px;
 }
 
 @media screen and (max-height: 450px) {
@@ -187,12 +196,12 @@ right nav
 
 
 
-#backnext {
+.backnext {
     display: flex;
     justify-content: space-around;
 }
 
-#backnext button {
+.backnext button {
     
     background-color: #000;
     border: none;
@@ -228,5 +237,7 @@ right nav
 p {
     display: block;
 }
+
+
 
 
