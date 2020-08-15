@@ -1,25 +1,21 @@
 const checkq = new URLSearchParams(window.location.search);
 const whatsq = checkq.get('shaka');
 
-$.getJSON(
-    "https://adv.sikhresources.site/json/shakas.json",
-    function (data) {
+window.addEventListener("load", function () {
+    for (i = 1; i < 25; i++) {
 
-        for (var i = 0; i < data.length; i++) {
-            var shaka = data[i];
+        var shakasdiv = document.getElementById("myleftnav");
+        theurl = "/shaka.html?shaka=" + i
 
-            var shakasdiv = document.getElementById("myleftnav");
-
-            var link = document.createElement('a');
-            if (whatsq == shaka.shaka) {
-                link.className = "active"
-            }
-            link.setAttribute("href", shaka.link);
-            link.appendChild(document.createTextNode("ਸ਼ਕਾ " + shaka.shaka));
-            shakasdiv.appendChild(link);
+        var link = document.createElement('a');
+        if (whatsq == i) {
+            link.className = "active"
         }
+        link.setAttribute("href", theurl);
+        link.appendChild(document.createTextNode(i));
+        shakasdiv.appendChild(link);
     }
-)
+})
 
 function leftopenNav() {
     document.getElementById("myleftnav").style.width = "250px";
@@ -69,16 +65,14 @@ if (getCookie("punjabi") == "") {
 
 }
 
-if (location.pathname == "/index.html" || location.pathname == "/" ) {
+if (location.pathname == "/index.html" || location.pathname == "/") {
 
-    if (getCookie("last") == "") {
+    if (getCookie("last") == "" || getCookie("last") > "24") {
         console.log("no past")
     } else if (getCookie("last")) {
-
-
         var div = document.getElementById("leftoff");
         var a = document.createElement('a');
-        a.appendChild(document.createTextNode("Continue from where you left off: Shaka " + getCookie("last")));
+        a.appendChild(document.createTextNode("Continue from where you left off: Shant " + getCookie("last")));
         a.setAttribute("href", "/shaka.html?shaka=" + getCookie("last"))
         div.appendChild(a);
     }
@@ -90,7 +84,7 @@ $.getJSON(
 
         for (var i = 0; i < data.length; i++) {
             var shaka = data[i];
-            
+
             console.log("hi")
         }
     }

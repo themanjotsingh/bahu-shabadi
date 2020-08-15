@@ -2,8 +2,7 @@ apiline = "https://api.gurbaninow.com/v2/line/"
 apishabad = "https://api.gurbaninow.com/v2/shabad/"
 
 const urlParams = new URLSearchParams(window.location.search);
-const myParam = urlParams.get('shaka');
-shakanum = myParam
+const shakanum = urlParams.get('shaka');
 
 if (shakanum == "null") {
     window.location.replace("/");
@@ -90,10 +89,6 @@ $.getJSON(
                     }
                     div.appendChild(english);
 
-
-
-
-
                 });
         };
 
@@ -151,8 +146,8 @@ $.getJSON(
 
 
                         }
-                        div.appendChild(punjabi);
 
+                        div.appendChild(punjabi);
 
                         var english = document.createElement('p');
                         english.appendChild(document.createTextNode(each.line.translation.english.default));
@@ -280,30 +275,31 @@ $.getJSON(
 
         var list = data[shakanum - 1].shabads
 
-        try {
-
-            for (var i = 0; i < list.length; i++) {
-                var shaka = list[i];
 
 
-                var shakasdiv = document.getElementById("myrightnav");
-
-                var link = document.createElement('a');
-
-                theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shaka.id
+        for (var i = 0; i < list.length; i++) {
+            var shabads = list[i];
 
 
+            var shabadsdiv = document.getElementById("myrightnav");
 
-                link.setAttribute("href", theurl);
-                link.appendChild(document.createTextNode(shaka.show));
-                shakasdiv.appendChild(link);
+            $.getJSON(
+                apiline + shabads.line,
+                function (data) {
+                    console.log(data.line)
 
-                
+                    var link = document.createElement('a');
 
-            }
+                    theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id
 
-        } catch (err) {
-            console.log("no shabads")
+                    link.setAttribute("href", theurl);
+                    link.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
+                    shabadsdiv.appendChild(link);
+
+
+                })
+
+
+
         }
-    }
-)
+    })
