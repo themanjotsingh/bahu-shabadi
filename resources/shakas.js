@@ -16,19 +16,12 @@ if (shakanum > 24) {
     window.location.replace("/");
 }
 
-function setcookie(cookieName, cookieValue) {
-    var today = new Date();
-    var expire = new Date();
-    expire.setTime(today.getTime() + 3600000 * 24 * 14);
-    document.cookie = cookieName + "=" + encodeURI(cookieValue) + ";expires=" + expire.toGMTString();
-}
-
 $.getJSON(
     "json/shabads.json",
     function (data) {
 
         try {
-            lineslist = data[shakanum - 1].lines
+            lineslist = data[shakanum - 1].shakalines
             lines = lineslist.split(",")
         } catch (err) {
 
@@ -92,8 +85,7 @@ $.getJSON(
                 });
         };
 
-
-        aftershabadslist = data[shakanum - 1].sp
+        aftershabadslist = data[shakanum - 1].shakashabads
         aftershabads = aftershabadslist.split(",")
 
         aftershabads.forEach(myShabad)
@@ -209,8 +201,6 @@ function togglelarivaar() {
 
     }
 
-
-
 }
 
 function toggleenglish() {
@@ -225,11 +215,6 @@ function toggleenglish() {
         $(".english").removeClass("hidden");
     }
 
-
-
-
-
-
 }
 
 function togglepunjabi() {
@@ -243,14 +228,7 @@ function togglepunjabi() {
         document.cookie = "punjabi=yes; expires=Thu, 18 Dec 2023 12:00:00 UTC";
         $(".punjabi").removeClass("hidden");
     }
-
-
-
 }
-
-
-
-
 
 
 if (getCookie("shabad") == "lva") {
@@ -269,37 +247,12 @@ if (shakanum == "null") {
     setcookie("last", shakanum)
 }
 
-$.getJSON(
-    "json/shabads.json",
-    function (data) {
 
-        var list = data[shakanum - 1].shabads
+getshabadslist(whichlist = "advgutka")
 
+getshabadslist(whichlist = "shabads")
 
-
-        for (var i = 0; i < list.length; i++) {
-            var shabads = list[i];
+getshabadslist(whichlist = "amritkirtann")
 
 
-            var shabadsdiv = document.getElementById("myrightnav");
-
-            $.getJSON(
-                apiline + shabads.line,
-                function (data) {
-                    console.log(data.line)
-
-                    var link = document.createElement('a');
-
-                    theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id
-
-                    link.setAttribute("href", theurl);
-                    link.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
-                    shabadsdiv.appendChild(link);
-
-
-                })
-
-
-
-        }
-    })
+setTimeout(submitmore, 2000);

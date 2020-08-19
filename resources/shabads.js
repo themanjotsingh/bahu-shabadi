@@ -7,73 +7,80 @@ shabadid = urlParams.get('shabadid');
 shakanum = myParam
 
 
+const lineid = urlParams.get('lineid');
 
-function setcookie(cookieName, cookieValue) {
-    var today = new Date();
-    var expire = new Date();
-    expire.setTime(today.getTime() + 3600000 * 24 * 14);
-    document.cookie = cookieName + "=" + encodeURI(cookieValue) + ";expires=" + expire.toGMTString();
+link = apishabad + shabadid;
+
+$.getJSON(
+    link,
+    function (data) {
+
+
+        document.getElementById("writer").appendChild(document.createTextNode(data.shabadinfo.writer.unicode))
+        document.getElementById("where").appendChild(document.createTextNode(data.shabadinfo.source.unicode))
+        document.getElementById("ang").appendChild(document.createTextNode("Ang: " + data.shabadinfo.pageno))
+
+
+        for (var i = 0; i < data.shabad.length; i++) {
+
+            var each = data.shabad[i];
+
+
+            var div = document.getElementById("bani");
+
+            var shabad = document.createElement('p');
+            shabad.appendChild(document.createTextNode(each.line.gurmukhi.unicode));
+
+            if (lineid == each.line.id) {
+                shabad.style.textDecoration = "underline"
+            }
+
+
+            if (getCookie("shabad") == "lv") {
+                shabad.className = "shabad condensed"
+            } else if (getCookie("shabad") == "ps") {
+                shabad.className = "shabad"
+            } else if (getCookie("shabad") == "lva") {
+                shabad.className = "shabad condensed assisted"
+                $(".shabad").lettering('words');
+            }
+            div.appendChild(shabad);
+
+            var punjabi = document.createElement('p');
+            punjabi.appendChild(document.createTextNode(each.line.translation.punjabi.default.unicode));
+            if (getCookie("punjabi") == "no") {
+                punjabi.className = "punjabi hidden"
+            } else if (getCookie("punjabi") == "yes") {
+                punjabi.className = "punjabi"
+
+
+            }
+            div.appendChild(punjabi);
+
+
+            var english = document.createElement('p');
+            english.appendChild(document.createTextNode(each.line.translation.english.default));
+            if (getCookie("english") == "no") {
+                english.className = "english hidden"
+            } else if (getCookie("english") == "yes") {
+                english.className = "english"
+            }
+            div.appendChild(english);
+
+
+        }
+
+    })
+
+if (shakanum == null) {
+    console.log("no shaka?")
+} else {
+    backlink = "/shaka.html?shaka=" + (shakanum)
+    document.getElementById("backtop").setAttribute("href", backlink);
+    document.getElementById("backtop").innerHTML = "Go back to Shaka #" + shakanum
+    document.getElementById("backbottom").setAttribute("href", backlink);
+    document.getElementById("backbottom").innerHTML = "Go back to Shaka #" + shakanum
 }
-
-            link = apishabad + shabadid;
-
-            $.getJSON(
-                link,
-                function (data) {
-
-                    for (var i = 0; i < data.shabad.length; i++) {
-
-                        var each = data.shabad[i];
-
-
-                        var div = document.getElementById("bani");
-
-                        var shabad = document.createElement('p');
-                        shabad.appendChild(document.createTextNode(each.line.gurmukhi.unicode));
-                        if (getCookie("shabad") == "lv") {
-                            shabad.className = "shabad condensed"
-                        } else if (getCookie("shabad") == "ps") {
-                            shabad.className = "shabad"
-                        } else if (getCookie("shabad") == "lva") {
-                            shabad.className = "shabad condensed assisted"
-                            $(".shabad").lettering('words');
-                        }
-                        div.appendChild(shabad);
-
-                        var punjabi = document.createElement('p');
-                        punjabi.appendChild(document.createTextNode(each.line.translation.punjabi.default.unicode));
-                        if (getCookie("punjabi") == "no") {
-                            punjabi.className = "punjabi hidden"
-                        } else if (getCookie("punjabi") == "yes") {
-                            punjabi.className = "punjabi"
-
-
-                        }
-                        div.appendChild(punjabi);
-
-
-                        var english = document.createElement('p');
-                        english.appendChild(document.createTextNode(each.line.translation.english.default));
-                        if (getCookie("english") == "no") {
-                            english.className = "english hidden"
-                        } else if (getCookie("english") == "yes") {
-                            english.className = "english"
-                        }
-                        div.appendChild(english);
-
-
-                    }
-
-                })
-        
-
-
-
-backlink = "/shaka.html?shaka=" + (shakanum)
-document.getElementById("backtop").setAttribute("href", backlink);
-document.getElementById("backtop").innerHTML = "Go back to Shaka #" + shakanum
-document.getElementById("backbottom").setAttribute("href", backlink);
-document.getElementById("backbottom").innerHTML = "Go back to Shaka #" + shakanum
 
 
 function togglelarivaar() {
@@ -127,11 +134,6 @@ function toggleenglish() {
         $(".english").removeClass("hidden");
     }
 
-
-
-
-
-
 }
 
 function togglepunjabi() {
@@ -146,13 +148,7 @@ function togglepunjabi() {
         $(".punjabi").removeClass("hidden");
     }
 
-
-
 }
-
-
-
-
 
 
 if (getCookie("shabad") == "lva") {
@@ -165,32 +161,11 @@ if (getCookie("shabad") == "lva") {
     document.getElementById("shabad").innerHTML = "Larivaar Assisted";
 }
 
+getshabadslist(whichlist = "advgutka")
+
+getshabadslist(whichlist = "shabads")
+
+getshabadslist(whichlist = "amritkirtann")
 
 
-$.getJSON(
-    "json/shabads.json",
-    function (data) {
-
-
-        var list = data[shakanum - 1].shabads
-
-        for (var i = 0; i < list.length; i++) {
-            var shaka = list[i];
-
-
-            var shakasdiv = document.getElementById("myrightnav");
-
-            var link = document.createElement('a');
-
-            theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shaka.id
-
-            console.log(shaka)
-
-
-            link.setAttribute("href", theurl);
-            link.appendChild(document.createTextNode( shaka.show));
-            shakasdiv.appendChild(link);
-
-        }
-    }
-)
+setTimeout(submitmore, 2000);

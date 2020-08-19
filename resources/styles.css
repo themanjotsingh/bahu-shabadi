@@ -166,11 +166,11 @@ right nav
 }
 
 
-.assisted [class*="word"]:nth-child(odd){
+.assisted [class*="word"]:nth-child(odd) {
     color: black;
 }
 
-.assisted [class*="word"]:nth-child(even){
+.assisted [class*="word"]:nth-child(even) {
     color: orange;
 }
 
@@ -202,7 +202,7 @@ right nav
 }
 
 .backnext button {
-    
+
     background-color: #000;
     border: none;
     color: white;
@@ -239,5 +239,20 @@ p {
 }
 
 
+#information {
+    background-color: ghostwhite;
+    display: grid;
+    place-items: center;
+    border-style: solid;
+    font-weight: bold;
+    position: relative;
+    margin-left: 15%;
+    margin-right: 15%;
 
+}
 
+#fav {
+    position: absolute;
+    right: 0;
+    top: 0;
+}

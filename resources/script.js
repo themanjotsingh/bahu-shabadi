@@ -65,6 +65,9 @@ if (getCookie("punjabi") == "") {
 
 }
 
+
+
+
 if (location.pathname == "/index.html" || location.pathname == "/") {
 
     if (getCookie("last") == "" || getCookie("last") > "24") {
@@ -72,20 +75,61 @@ if (location.pathname == "/index.html" || location.pathname == "/") {
     } else if (getCookie("last")) {
         var div = document.getElementById("leftoff");
         var a = document.createElement('a');
-        a.appendChild(document.createTextNode("Continue from where you left off: Shant " + getCookie("last")));
+        a.appendChild(document.createTextNode("Continue from where you left off: Shakka " + getCookie("last")));
         a.setAttribute("href", "/shaka.html?shaka=" + getCookie("last"))
         div.appendChild(a);
     }
 }
 
-$.getJSON(
-    "https://api.banidb.com/v2/banis/90",
-    function (data) {
+listedshabads = "text "
 
-        for (var i = 0; i < data.length; i++) {
-            var shaka = data[i];
+function getshabadslist(whichlist) {
+    $.getJSON(
+        "json/shabads.json",
+        function (data) {
+            var list = data[shakanum - 1][whichlist]
+            for (var i = 0; i < list.length; i++) {
+                var shabads = list[i];
 
-            console.log("hi")
-        }
-    }
-)
+
+                if (listedshabads.includes(shabads.id)) {
+                    continue
+                } else {
+
+                    listedshabads += (shabads.id + " ")
+                    var shabadsdiv = document.getElementById("myrightnav");
+
+                    $.getJSON(
+                        apiline + shabads.line,
+                        function (data) {
+
+                            var link = document.createElement('a');
+
+                            theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id + "&lineid=" + shabads.line
+
+                            link.setAttribute("href", theurl);
+                            link.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
+                            shabadsdiv.appendChild(link);
+                        })
+                }
+
+            }
+        })
+
+}
+
+function setcookie(cookieName, cookieValue) {
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000 * 24 * 14);
+    document.cookie = cookieName + "=" + encodeURI(cookieValue) + ";expires=" + expire.toGMTString();
+}
+
+function submitmore() {
+    var shakasdiv = document.getElementById("myrightnav");
+    var submitkaro = document.createElement('a');
+    theurl = "https://gitreports.com/issue/themanjotsingh/bahu-shabadi" + shakanum
+    submitkaro.setAttribute("href", theurl);
+    submitkaro.appendChild(document.createTextNode("Submit Shabad to Add"));
+    shakasdiv.appendChild(submitkaro);
+}
