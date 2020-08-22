@@ -169,3 +169,47 @@ getshabadslist(whichlist = "amritkirtann")
 
 
 setTimeout(submitmore, 2000);
+
+
+if (typeof (Storage) !== "undefined") {
+    console.log("local storage support")
+
+    if (localStorage.favouriteslist) {
+
+        console.log(localStorage.favouriteslist)
+        if (localStorage.favouriteslist.includes(lineid)) {
+            document.getElementById("favbutton").innerHTML = "★"
+
+        } else {
+            document.getElementById("favbutton").innerHTML = "☆"
+
+        }
+    } else {
+        localStorage.favouriteslist = " ";
+    }
+
+
+
+
+} else {
+    console.log("no local storage support")
+}
+
+
+
+function favourite() {
+
+    if (localStorage.favouriteslist.includes(lineid)) {
+
+        var ret = localStorage.favouriteslist.replace(lineid, '');
+        localStorage.favouriteslist = ret;
+
+
+    } else {
+        localStorage.favouriteslist = localStorage.favouriteslist + lineid + " "
+
+    }
+
+    window.location.reload();
+
+}

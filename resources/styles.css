@@ -251,8 +251,87 @@ p {
 
 }
 
+
+
+.homebody {}
+
+.homefooter {
+    display: block;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    margin-right: 48%;
+    margin-left: 48%;
+    height: 100px;
+
+}
+
+.homefooter a:link {
+    color: #000;
+    text-decoration: none;
+
+
+}
+
+.homefooter a:visited {
+    color: #000 text-decoration: none;
+
+}
+
+.homefooter a:hover {
+    color: #000 text-decoration: none;
+
+}
+
+.homefooter a:active {
+    color: #000 text-decoration: none;
+
+}
+
 #fav {
     position: absolute;
     right: 0;
     top: 0;
+}
+
+#fav button {
+    background-color: #000;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 2px;
+    font-size: 1.5em;
+    color: yellow;
+    fill: yellow;
+}
+
+#favslist{
+    text-align: center;
+}
+
+#favslist a {
+        line-height: 3
+
+}
+
+#favslist a:link {
+    color: #000;
+    
+}
+
+#favslist a:visited {
+    color: #000;
+
+}
+
+#favslist a:hover {
+    color: #000;
+
+}
+
+#favslist a:active {
+    color: #000;
+
 }

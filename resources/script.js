@@ -81,6 +81,13 @@ if (location.pathname == "/index.html" || location.pathname == "/") {
     }
 }
 
+function Get(yourUrl) {
+    var Httpreq = new XMLHttpRequest(); // a new request
+    Httpreq.open("GET", yourUrl, false);
+    Httpreq.send(null);
+    return Httpreq.responseText;
+}
+
 listedshabads = "text "
 
 function getshabadslist(whichlist) {
@@ -91,7 +98,6 @@ function getshabadslist(whichlist) {
             for (var i = 0; i < list.length; i++) {
                 var shabads = list[i];
 
-
                 if (listedshabads.includes(shabads.id)) {
                     continue
                 } else {
@@ -99,18 +105,13 @@ function getshabadslist(whichlist) {
                     listedshabads += (shabads.id + " ")
                     var shabadsdiv = document.getElementById("myrightnav");
 
-                    $.getJSON(
-                        apiline + shabads.line,
-                        function (data) {
+                    theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id + "&lineid=" + shabads.line
 
-                            var link = document.createElement('a');
-
-                            theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id + "&lineid=" + shabads.line
-
-                            link.setAttribute("href", theurl);
-                            link.appendChild(document.createTextNode(data.line.gurmukhi.unicode));
-                            shabadsdiv.appendChild(link);
-                        })
+                    var link = document.createElement('a');
+                    link.setAttribute("href", theurl);
+                    var json_obj = JSON.parse(Get(apiline + shabads.line));
+                    link.appendChild(document.createTextNode(json_obj.line.gurmukhi.unicode));
+                    shabadsdiv.appendChild(link);
                 }
 
             }
@@ -128,7 +129,7 @@ function setcookie(cookieName, cookieValue) {
 function submitmore() {
     var shakasdiv = document.getElementById("myrightnav");
     var submitkaro = document.createElement('a');
-    theurl = "https://gitreports.com/issue/themanjotsingh/bahu-shabadi" + shakanum
+    theurl = "https://gitreports.com/issue/themanjotsingh/bahu-shabadi"
     submitkaro.setAttribute("href", theurl);
     submitkaro.appendChild(document.createTextNode("Submit Shabad to Add"));
     shakasdiv.appendChild(submitkaro);
