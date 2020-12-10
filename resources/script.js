@@ -1,6 +1,9 @@
 const checkq = new URLSearchParams(window.location.search);
 const whatsq = checkq.get('shaka');
 
+apiline = "https://api.gurbaninow.com/v2/line/"
+apishabad = "https://api.gurbaninow.com/v2/shabad/"
+
 window.addEventListener("load", function () {
     for (i = 1; i < 25; i++) {
 
@@ -98,11 +101,11 @@ function getshabadslist(whichlist) {
             for (var i = 0; i < list.length; i++) {
                 var shabads = list[i];
 
-                if (listedshabads.includes(shabads.id)) {
+                if (listedshabads.includes(shabads.line)) {
                     continue
                 } else {
 
-                    listedshabads += (shabads.id + " ")
+                    listedshabads += (shabads.line + " ")
                     var shabadsdiv = document.getElementById("myrightnav");
 
                     theurl = "/shabad.html?shaka=" + shakanum + "&shabadid=" + shabads.id + "&lineid=" + shabads.line

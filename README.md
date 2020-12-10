@@ -22,8 +22,7 @@ The first set of alphanumerals are for the shabad and the second set of alphanum
 
 * [Gurbani Now API](https://github.com/GurbaniNow/api)
 * [Lettering.JS](http://letteringjs.com/)
-* [ਅਮ੍ਰਿਤ ਕੀਰਤਨ - ਖਾਲਸਾ ਬ੍ਰਦਰਜ਼ - 40th Edition - ਜੁਲਾਈ ੨੦੧੧](http://www.vidhia.com/Bani/Amrit%20Keertan%20%28Khalsa%20Brothers%29.pdf)
+* [ਅਮ੍ਰਿਤ ਕੀਰਤਨ - ਖਾਲਸਾ ਬ੍ਰਦਰਜ਼](http://www.vidhia.com/Bani/Amrit%20Keertan%20%28Khalsa%20Brothers%29.pdf)
 * ਬਹੁ ਸ਼ਬਦੀ - (ਕੀਰਤਨੀ) ਆਸਾ ਦੀ ਵਾਰ - ਸਿੰਘ ਬ੍ਰਦਰਜ਼ - 4th Edition - ਅਗਸਤ ੨੦੦੪
-* ਅਮ੍ਰਿਤ ਕੀਰਤਨ - ਖਾਲਸਾ ਬ੍ਰਦਰਜ਼ - 26th Edition - ਜਨਵਰੀ ੧੯੯੮
 * Gutka Sahib : ਕੀਰਤਨੀ ਆਸਾ ਦੀ ਵਾਰ (ਮੋਟੇ ਆਖਰ) - ਭਾ: ਚਤਰ ਸਿੰਘ ਜੀਵਨ ਸਿੰਘ - ਸੋਧਕ: ਗਿਆਨੀ ਮੋਹਨ ਸਿੰਘ 
 * ਪੰਚ-ਸ਼ਬਦੀ - (ਕੀਰਤਨੀ) ਆਸਾ ਦੀ ਵਾਰ - ਸਿੰਘ ਬ੍ਰਦਰਜ਼ - 19th Edition - ਜਨਵਰੀ ੨੦੦੧

@@ -1,6 +1,3 @@
-apiline = "https://api.gurbaninow.com/v2/line/"
-apishabad = "https://api.gurbaninow.com/v2/shabad/"
-
 favslist = localStorage.favouriteslist.split(" ")
 
 
@@ -19,10 +16,6 @@ function displayfavs(item, index) {
         link.setAttribute("href", theurl);
 
         link.appendChild(document.createTextNode(jsonobj.line.gurmukhi.unicode));
-
-
-
-
 
         favslist.appendChild(link);
 

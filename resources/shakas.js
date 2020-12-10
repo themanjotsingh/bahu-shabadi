@@ -1,6 +1,3 @@
-apiline = "https://api.gurbaninow.com/v2/line/"
-apishabad = "https://api.gurbaninow.com/v2/shabad/"
-
 const urlParams = new URLSearchParams(window.location.search);
 const shakanum = urlParams.get('shaka');
 
