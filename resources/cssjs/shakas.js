@@ -12,7 +12,7 @@ if (shakanum < 1) {
 if (shakanum > 24) {
     window.location.replace("/");
 }
-
+try {
 $.getJSON(
     "resources/json/shabads.json",
     function (data) {
@@ -24,6 +24,10 @@ $.getJSON(
         endline = parseInt(startendlines[1]) + 1
     }
 )
+}
+catch(err) {
+    location.reload();
+}
 
 $.getJSON("https://api.gurbaninow.com/v2/banis/11",
     function (data) {
