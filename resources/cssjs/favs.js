@@ -22,12 +22,5 @@ function displayfavs(item, index) {
 
         var blank = document.createElement('br');
         favslist.appendChild(blank);
-
-
-
-
-
-
-
     }
 }
