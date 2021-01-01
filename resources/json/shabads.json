@@ -1,1850 +1,2224 @@
 [
-    {
-        "shaka": "one",
-        "bani": "0,25",
-        "advgutka": [
-            {
-                "id": "CXV",
-                "line": "F2MT"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "BQR",
-                "line": "VBZW"
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "99U",
-                "line": "UVLP"
-            },
-            {
-                "id": "ZRU",
-                "line": "S1J5"
-            },
-            {
-                "id": "FR0",
-                "line": "AA04"
-            },
-            {
-                "id": "GG3",
-                "line": "KQRP"
-            },
-            {
-                "id": "K9P",
-                "line": "3YE6"
-            },
-            {
-                "id": "STU",
-                "line": "Z7SS"
-            },
-            {
-                "id": "BKW",
-                "line": "8FV4"
-            },
-            {
-                "id": "HFP",
-                "line": "JNH5"
-            }
-        ]
-    },
-    {
-        "shaka": "two",
-        "bani": "26,64",
-        "advgutka": [
-            {
-                "id": "4JB",
-                "line": "52KU"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "TAP",
-                "line": "KK0V"
-            },
-            {
-                "id": "XSJ",
-                "line": "UBCM"
-            },
-            {
-                "id": "4JB",
-                "line": "33MY"
-            },
-            {
-                "id": "FKL",
-                "line": "9TCQ"
-            },
-            {
-                "id": "LHY",
-                "line": "2HMB"
-            },
-            {
-                "id": "9ND",
-                "line": "BFH4"
-            },
-            {
-                "id": "CM9",
-                "line": "X9Q2"
-            },
-            {
-                "id": "0U6",
-                "line": "2462"
-            },
-            {
-                "id": "TJM",
-                "line": "WRSA"
-            },
-            {
-                "id": "0T2",
-                "line": "0FHS"
-            },
-            {
-                "id": "86J",
-                "line": "4EUG"
-            },
-            {
-                "id": "LBU",
-                "line": "Q5WY"
-            }
-        ]
-    },
-    {
-        "shaka": "three",
-        "bani": "65,105",
-        "advgutka": [
-            {
-                "id": "4GK",
-                "line": "CJGR"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "YL7",
-                "line": "NX71"
-            },
-            {
-                "id": "1SS",
-                "line": "JB1F"
-            },
-            {
-                "id": "JYU",
-                "line": "F7B7"
-            },
-            {
-                "id": "JLC",
-                "line": "BS81"
-            },
-            {
-                "id": "GWW",
-                "line": "RXJG"
-            },
-            {
-                "id": "N1W",
-                "line": "P5D8"
-            },
-            {
-                "id": "J46",
-                "line": "H3J7"
-            },
-            {
-                "id": "PJG",
-                "line": "LVNN"
-            },
-            {
-                "id": "HCR",
-                "line": "MX12"
-            }
-        ]
-    },
-    {
-        "shaka": "four",
-        "bani": "106,136",
-        "advgutka": [
-            {
-                "id": "GPA",
-                "line": "BX16"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "QH0",
-                "line": "BYVW"
-            },
-            {
-                "id": "RZX",
-                "line": "E9G0"
-            },
-            {
-                "id": "W2D",
-                "line": "K7AR"
-            },
-            {
-                "id": "C10",
-                "line": "EWEJ"
-            },
-            {
-                "id": "5SV",
-                "line": "FZST"
-            },
-            {
-                "id": "262",
-                "line": "0EC3"
-            },
-            {
-                "id": "2L7",
-                "line": "RAX0"
-            },
-            {
-                "id": "2TY",
-                "line": "J444"
-            },
-            {
-                "id": "2K9",
-                "line": "M2RX"
-            },
-            {
-                "id": "1EZ",
-                "line": "9NL8"
-            },
-            {
-                "id": "787",
-                "line": "9BP7"
-            },
-            {
-                "id": "1F0",
-                "line": "PTUN"
-            },
-            {
-                "id": "4UY",
-                "line": "52Z3"
-            },
-            {
-                "id": "GPA",
-                "line": "BX16"
-            },
-            {
-                "id": "ES8",
-                "line": "D9KP"
-            },
-            {
-                "id": "LUU",
-                "line": "Y8WJ"
-            },
-            {
-                "id": "JMX",
-                "line": "76L9"
-            }
-        ]
-    },
-    {
-        "shaka": "five",
-        "bani": "137,179",
-        "advgutka": [
-            {
-                "id": "HCY",
-                "line": "CGSS"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "FMU",
-                "line": "PKVD"
-            },
-            {
-                "id": "4ZM",
-                "line": "R3ZB"
-            },
-            {
-                "id": "WG7",
-                "line": "GLKN"
-            },
-            {
-                "id": "PDY",
-                "line": "P2L6"
-            },
-            {
-                "id": "KLQ",
-                "line": "NYD5"
-            },
-            {
-                "id": "1L8",
-                "line": "9CWN"
-            },
-            {
-                "id": "AJZ",
-                "line": "WWUL"
-            },
-            {
-                "id": "7RY",
-                "line": "U4LA"
-            },
-            {
-                "id": "PUK",
-                "line": "67CK"
-            },
-            {
-                "id": "FB6",
-                "line": "6TAM"
-            },
-            {
-                "id": "BJJ",
-                "line": "MFJM"
-            },
-            {
-                "id": "T8B",
-                "line": "XDMW"
-            }
-        ]
-    },
-    {
-        "shaka": "six",
-        "bani": "180,209",
-        "advgutka": [
-            {
-                "id": "HNQ",
-                "line": "FADS"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "2BZ",
-                "line": "9C6L"
-            },
-            {
-                "id": "LPK",
-                "line": "PUEL"
-            },
-            {
-                "id": "UVQ",
-                "line": "QH21"
-            },
-            {
-                "id": "EFB",
-                "line": "1QT3"
-            },
-            {
-                "id": "Y3K",
-                "line": "E69K"
-            },
-            {
-                "id": "2TY",
-                "line": "L6B8"
-            },
-            {
-                "id": "K0T",
-                "line": "7SGK"
-            },
-            {
-                "id": "39Y",
-                "line": "1XWZ"
-            },
-            {
-                "id": "0CJ",
-                "line": "MHEG"
-            }
-        ]
-    },
-    {
-        "shaka": "seven",
-        "bani": "210,246",
-        "advgutka": [
-            {
-                "id": "HXD",
-                "line": "11XT"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "86J",
-                "line": "P8NX"
-            },
-            {
-                "id": "8LK",
-                "line": "J83H"
-            },
-            {
-                "id": "H3C",
-                "line": "WBJ9"
-            },
-            {
-                "id": "903",
-                "line": "UKNX"
-            },
-            {
-                "id": "2YB",
-                "line": "RSJS"
-            },
-            {
-                "id": "MBE",
-                "line": "9Z2V"
-            },
-            {
-                "id": "XSJ",
-                "line": "XUXH"
-            },
-            {
-                "id": "9GM",
-                "line": "XD5W"
-            },
-            {
-                "id": "ASQ",
-                "line": "J0D7"
-            },
-            {
-                "id": "WJD",
-                "line": "NTAU"
-            },
-            {
-                "id": "HXD",
-                "line": "3K7J"
-            }
-        ]
-    },
-    {
-        "shaka": "eight",
-        "bani": "247,273",
-        "advgutka": [
-            {
-                "id": "ES3",
-                "line": "K5A4"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "H6E",
-                "line": "K9HR"
-            },
-            {
-                "id": "6P1",
-                "line": "43PE"
-            },
-            {
-                "id": "FUQ",
-                "line": "RH76"
-            },
-            {
-                "id": "CF0",
-                "line": "8REA"
-            },
-            {
-                "id": "75N",
-                "line": "ZYGN"
-            },
-            {
-                "id": "ZBY",
-                "line": "JSG1"
-            },
-            {
-                "id": "JK3",
-                "line": "7VM2"
-            },
-            {
-                "id": "BVU",
-                "line": "4E3U"
-            },
-            {
-                "id": "68G",
-                "line": "P1HA"
-            },
-            {
-                "id": "EUU",
-                "line": "VS1N"
-            },
-            {
-                "id": "ZBQ",
-                "line": "Q52J"
-            },
-            {
-                "id": "ARB",
-                "line": "4EBD"
-            }
-        ]
-    },
-    {
-        "shaka": "nine",
-        "bani": "274,309",
-        "advgutka": [
-            {
-                "id": "TQX",
-                "line": "S5DW"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "4SP",
-                "line": "B1PW"
-            },
-            {
-                "id": "HRV",
-                "line": "C4Z2"
-            },
-            {
-                "id": "8WL",
-                "line": "DPSA"
-            },
-            {
-                "id": "CB2",
-                "line": "8SNH"
-            },
-            {
-                "id": "B5H",
-                "line": "VQ1J"
-            },
-            {
-                "id": "KUB",
-                "line": "BZ18"
-            },
-            {
-                "id": "9P8",
-                "line": "ARQ0"
-            },
-            {
-                "id": "H6G",
-                "line": "C1ZY"
-            },
-            {
-                "id": "PVL",
-                "line": "L8DN"
-            },
-            {
-                "id": "NHN",
-                "line": "PWEJ"
-            },
-            {
-                "id": "NHN",
-                "line": "LMPK"
-            },
-            {
-                "id": "UQF",
-                "line": "0UMP"
-            },
-            {
-                "id": "UJD",
-                "line": "9XTK"
-            },
-            {
-                "id": "0AJ",
-                "line": "G19M"
-            },
-            {
-                "id": "4A2",
-                "line": "JQU4"
-            }
-        ]
-    },
-    {
-        "shaka": "ten",
-        "bani": "310,342",
-        "advgutka": [
-            {
-                "id": "6GE",
-                "line": "8YHV"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "VWF",
-                "line": "NQQ5"
-            },
-            {
-                "id": "4PC",
-                "line": "HTP5"
-            },
-            {
-                "id": "FVR",
-                "line": "FLB0"
-            },
-            {
-                "id": "ANJ",
-                "line": "7SGG"
-            },
-            {
-                "id": "MLA",
-                "line": "25LP"
-            },
-            {
-                "id": "R3N",
-                "line": "9DJ0"
-            },
-            {
-                "id": "R3N",
-                "line": "UMG7"
-            },
-            {
-                "id": "K14",
-                "line": "GJPU"
-            },
-            {
-                "id": "K14",
-                "line": "D7G7"
-            },
-            {
-                "id": "JA8",
-                "line": "0QXT"
-            },
-            {
-                "id": "F3Z",
-                "line": "YN4P"
-            },
-            {
-                "id": "UHK",
-                "line": "23T2"
-            },
-            {
-                "id": "9M6",
-                "line": "6KDP"
-            },
-            {
-                "id": "UQF",
-                "line": "X938"
-            }
-        ]
-    },
-    {
-        "shaka": "eleven",
-        "bani": "343,375",
-        "advgutka": [
-            {
-                "id": "8X3",
-                "line": "3MFQ"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "7D0",
-                "line": "RL19"
-            },
-            {
-                "id": "7D0",
-                "line": "6XGL"
-            },
-            {
-                "id": "7D0",
-                "line": "JM2H"
-            },
-            {
-                "id": "1YP",
-                "line": "1JTC"
-            },
-            {
-                "id": "5VV",
-                "line": "BB56"
-            },
-            {
-                "id": "GUF",
-                "line": "75NP"
-            },
-            {
-                "id": "9VE",
-                "line": "7XC0"
-            },
-            {
-                "id": "XRD",
-                "line": "YV4S"
-            },
-            {
-                "id": "8SY",
-                "line": "J7A7"
-            },
-            {
-                "id": "356",
-                "line": "XEU4"
-            },
-            {
-                "id": "WCG",
-                "line": "9676"
-            },
-            {
-                "id": "8ZL",
-                "line": "1E8J"
-            },
-            {
-                "id": "9Z3",
-                "line": "FLRW"
-            },
-            {
-                "id": "8X3",
-                "line": "3MFQ"
-            },
-            {
-                "id": "5UL",
-                "line": "SGK9"
-            },
-            {
-                "id": "K9P",
-                "line": "SQW7"
-            }
-        ]
-    },
-    {
-        "shaka": "twelve",
-        "bani": "376,405",
-        "advgutka": [
-            {
-                "id": "BJ7",
-                "line": "PRBR"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "BA4",
-                "line": "XS7D"
-            },
-            {
-                "id": "JLC",
-                "line": "BS81"
-            },
-            {
-                "id": "FYG",
-                "line": "W7F2"
-            },
-            {
-                "id": "4V4",
-                "line": "01HB"
-            },
-            {
-                "id": "663",
-                "line": "586R"
-            },
-            {
-                "id": "BJ7",
-                "line": "PRBR"
-            },
-            {
-                "id": "L1B",
-                "line": "BP6L"
-            },
-            {
-                "id": "7GW",
-                "line": "8E65"
-            },
-            {
-                "id": "T4T",
-                "line": "W7KX"
-            },
-            {
-                "id": "BN1",
-                "line": "CWSW"
-            },
-            {
-                "id": "JSL",
-                "line": "E1FA"
-            },
-            {
-                "id": "PBJ",
-                "line": "6V0U"
-            }
-        ]
-    },
-    {
-        "shaka": "thirteen",
-        "bani": "406,438",
-        "advgutka": [
-            {
-                "id": "T6F",
-                "line": "T0LK"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "VWF",
-                "line": "NQQ5"
-            },
-            {
-                "id": "F8P",
-                "line": "90EC"
-            },
-            {
-                "id": "AN1",
-                "line": "EZHB"
-            },
-            {
-                "id": "K63",
-                "line": "8S15"
-            },
-            {
-                "id": "F6Y",
-                "line": "HL2B"
-            },
-            {
-                "id": "3BN",
-                "line": "1JAW"
-            },
-            {
-                "id": "FJJ",
-                "line": "L4CK"
-            },
-            {
-                "id": "0Z8",
-                "line": "CYR8"
-            },
-            {
-                "id": "39Y",
-                "line": "LZXF"
-            },
-            {
-                "id": "BP7",
-                "line": "BY4T"
-            },
-            {
-                "id": "D65",
-                "line": "BSKX"
-            }
-        ]
-    },
-    {
-        "shaka": "fourteen",
-        "bani": "439,468",
-        "advgutka": [
-            {
-                "id": "R08",
-                "line": "23W2"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "SAB",
-                "line": "YG4Y"
-            },
-            {
-                "id": "8WJ",
-                "line": "GFEW"
-            },
-            {
-                "id": "KCZ",
-                "line": "0J96"
-            },
-            {
-                "id": "MHQ",
-                "line": "NVS5"
-            },
-            {
-                "id": "EX1",
-                "line": "NWW4"
-            },
-            {
-                "id": "DGM",
-                "line": "P4AP"
-            },
-            {
-                "id": "UKW",
-                "line": "ZHV1"
-            },
-            {
-                "id": "DPP",
-                "line": "XHCZ"
-            },
-            {
-                "id": "XNC",
-                "line": "T0ER"
-            },
-            {
-                "id": "GG3",
-                "line": "K2K2"
-            },
-            {
-                "id": "3N5",
-                "line": "60S9"
-            },
-            {
-                "id": "K17",
-                "line": "9PS1"
-            },
-            {
-                "id": "WB0",
-                "line": "G27U"
-            },
-            {
-                "id": "LTX",
-                "line": "2CYD"
-            },
-            {
-                "id": "EFQ",
-                "line": "J6HM"
-            },
-            {
-                "id": "EXT",
-                "line": "7ECE"
-            }
-        ]
-    },
-    {
-        "shaka": "fifteen",
-        "bani": "469,507",
-        "advgutka": [
-            {
-                "id": "7D0",
-                "line": "JM2H"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "LKC",
-                "line": "GCZ0"
-            },
-            {
-                "id": "FYG",
-                "line": "W7F2"
-            },
-            {
-                "id": "XHM",
-                "line": "ACFM"
-            },
-            {
-                "id": "KPE",
-                "line": "3JFV"
-            },
-            {
-                "id": "JGA",
-                "line": "FDMV"
-            },
-            {
-                "id": "6ZU",
-                "line": "M15Z"
-            },
-            {
-                "id": "Y7A",
-                "line": "EZLK"
-            },
-            {
-                "id": "HBX",
-                "line": "UJKS"
-            },
-            {
-                "id": "PHY",
-                "line": "3WH5"
-            },
-            {
-                "id": "A14",
-                "line": "DLLP"
-            },
-            {
-                "id": "071",
-                "line": "76QE"
-            },
-            {
-                "id": "81A",
-                "line": "Q5J5"
-            },
-            {
-                "id": "P5S",
-                "line": "47J9"
-            }
-        ]
-    },
-    {
-        "shaka": "sixteen",
-        "bani": "508,546",
-        "advgutka": [
-            {
-                "id": "9LZ",
-                "line": "H124"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "49A",
-                "line": "B75S"
-            },
-            {
-                "id": "M8P",
-                "line": "UM6T"
-            },
-            {
-                "id": "PVL",
-                "line": "L8DN"
-            },
-            {
-                "id": "H80",
-                "line": "KLZ5"
-            },
-            {
-                "id": "EPC",
-                "line": "D494"
-            },
-            {
-                "id": "TG7",
-                "line": "CP88"
-            },
-            {
-                "id": "BSL",
-                "line": "4QPG"
-            },
-            {
-                "id": "FPX",
-                "line": "KXC8"
-            },
-            {
-                "id": "JVV",
-                "line": "1E4U"
-            },
-            {
-                "id": "3G9",
-                "line": "UUSM"
-            },
-            {
-                "id": "HZT",
-                "line": "GFAM"
-            },
-            {
-                "id": "CG2",
-                "line": "3G1K"
-            },
-            {
-                "id": "9LZ",
-                "line": "H124"
-            }
-        ]
-    },
-    {
-        "shaka": "seventeen",
-        "bani": "547,567",
-        "advgutka": [
-            {
-                "id": "HWG",
-                "line": "K5UL"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "XSJ",
-                "line": "UBCM"
-            },
-            {
-                "id": "WY5",
-                "line": "HMW1"
-            },
-            {
-                "id": "Q19",
-                "line": "GBET"
-            },
-            {
-                "id": "HXD",
-                "line": "3K7J"
-            },
-            {
-                "id": "0BJ",
-                "line": "TAWL"
-            },
-            {
-                "id": "XX8",
-                "line": "KKMB"
-            },
-            {
-                "id": "KYW",
-                "line": "W6F1"
-            },
-            {
-                "id": "R5B",
-                "line": "T35Q"
-            },
-            {
-                "id": "21C",
-                "line": "FVX0"
-            },
-            {
-                "id": "TUW",
-                "line": "0FHJ"
-            },
-            {
-                "id": "YVR",
-                "line": "J21W"
-            },
-            {
-                "id": "0N6",
-                "line": "VGKB"
-            },
-            {
-                "id": "7PA",
-                "line": "9DAU"
-            },
-            {
-                "id": "XQY",
-                "line": "6DKE"
-            },
-            {
-                "id": "69W",
-                "line": "G731"
-            },
-            {
-                "id": "AJJ",
-                "line": "3M39"
-            },
-            {
-                "id": "64L",
-                "line": "38AT"
-            },
-            {
-                "id": "VSM",
-                "line": "N0HE"
-            },
-            {
-                "id": "MQ3",
-                "line": "NTUJ"
-            },
-            {
-                "id": "49A",
-                "line": "B75S"
-            },
-            {
-                "id": "TJM",
-                "line": "WRSA"
-            },
-            {
-                "id": "EQ4",
-                "line": "H6R2"
-            },
-            {
-                "id": "QTL",
-                "line": "YS8Y"
-            },
-            {
-                "id": "Z86",
-                "line": "D35V"
-            },
-            {
-                "id": "Q31",
-                "line": "DVCJ"
-            }
-        ]
-    },
-    {
-        "shaka": "eighteen",
-        "bani": "568,594",
-        "advgutka": [
-            {
-                "id": "5RG",
-                "line": "FJ58"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "57M",
-                "line": "7SDH"
-            },
-            {
-                "id": "AF7",
-                "line": "NSDX"
-            },
-            {
-                "id": "AF7",
-                "line": "1V5H"
-            },
-            {
-                "id": "156",
-                "line": "HKLS"
-            },
-            {
-                "id": "5RG",
-                "line": "ELJ7"
-            },
-            {
-                "id": "EZ7",
-                "line": "L5WG"
-            },
-            {
-                "id": "1KF",
-                "line": "YQ6G"
-            },
-            {
-                "id": "FP7",
-                "line": "WX1N"
-            },
-            {
-                "id": "L1B",
-                "line": "Z63X"
-            },
-            {
-                "id": "476",
-                "line": "76EU"
-            },
-            {
-                "id": "5RG",
-                "line": "FJ58"
-            },
-            {
-                "id": "SL2",
-                "line": "E2FJ"
-            },
-            {
-                "id": "4L7",
-                "line": "DM5S"
-            },
-            {
-                "id": "0BP",
-                "line": "P218"
-            }
-        ]
-    },
-    {
-        "shaka": "nineteen",
-        "bani": "595,623",
-        "advgutka": [
-            {
-                "id": "8WL",
-                "line": "BQFK"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "F6S",
-                "line": "6CDB"
-            },
-            {
-                "id": "D55",
-                "line": "AEPG"
-            },
-            {
-                "id": "0N6",
-                "line": "VGKB"
-            },
-            {
-                "id": "W2T",
-                "line": "AGRQ"
-            },
-            {
-                "id": "W2T",
-                "line": "GEMG"
-            },
-            {
-                "id": "WFN",
-                "line": "8PGV"
-            },
-            {
-                "id": "Z88",
-                "line": "D9P8"
-            },
-            {
-                "id": "NTC",
-                "line": "9U7R"
-            },
-            {
-                "id": "HWG",
-                "line": "K5UL"
-            },
-            {
-                "id": "T0J",
-                "line": "1XPH"
-            },
-            {
-                "id": "KB8",
-                "line": "8QXD"
-            },
-            {
-                "id": "KB8",
-                "line": "2J0J"
-            },
-            {
-                "id": "9K9",
-                "line": "NE3L"
-            },
-            {
-                "id": "FKL",
-                "line": "9TCQ"
-            },
-            {
-                "id": "8EL",
-                "line": "T8CE"
-            },
-            {
-                "id": "ZPF",
-                "line": "HX7Q"
-            },
-            {
-                "id": "1DV",
-                "line": "14QW"
-            },
-            {
-                "id": "8J4",
-                "line": "K85W"
-            },
-            {
-                "id": "455",
-                "line": "P3B7"
-            },
-            {
-                "id": "ZAS",
-                "line": "5BMX"
-            },
-            {
-                "id": "XDJ",
-                "line": "JWEV"
-            },
-            {
-                "id": "39Y",
-                "line": "W3UT"
-            },
-            {
-                "id": "HNK",
-                "line": "5G4R"
-            },
-            {
-                "id": "L4D",
-                "line": "1ZCC"
-            },
-            {
-                "id": "HLD",
-                "line": "FFRJ"
-            },
-            {
-                "id": "E89",
-                "line": "FX8V"
-            },
-            {
-                "id": "ZTL",
-                "line": "2WJM"
-            },
-            {
-                "id": "3T4",
-                "line": "RSWB"
-            },
-            {
-                "id": "5MR",
-                "line": "KEY3"
-            },
-            {
-                "id": "ZT3",
-                "line": "MJNJ"
-            },
-            {
-                "id": "YVR",
-                "line": "16QW"
-            },
-            {
-                "id": "EE2",
-                "line": "0KEQ"
-            }
-        ]
-    },
-    {
-        "shaka": "twenty",
-        "bani": "624,648",
-        "advgutka": [
-            {
-                "id": "SQP",
-                "line": "XW35"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "65W",
-                "line": "0HMR"
-            },
-            {
-                "id": "N5R",
-                "line": "836D"
-            },
-            {
-                "id": "553",
-                "line": "X737"
-            },
-            {
-                "id": "31R",
-                "line": "4C42"
-            },
-            {
-                "id": "9DA",
-                "line": "CT7P"
-            },
-            {
-                "id": "9DA",
-                "line": "3MFA"
-            },
-            {
-                "id": "HT3",
-                "line": "S24C"
-            },
-            {
-                "id": "JNV",
-                "line": "MCCU"
-            },
-            {
-                "id": "8VS",
-                "line": "940E"
-            },
-            {
-                "id": "VGA",
-                "line": "9UFB"
-            },
-            {
-                "id": "NP2",
-                "line": "59QC"
-            },
-            {
-                "id": "JF8",
-                "line": "7Q9X"
-            },
-            {
-                "id": "MMX",
-                "line": "6ZUH"
-            },
-            {
-                "id": "W2D",
-                "line": "LBD9"
-            },
-            {
-                "id": "RZX",
-                "line": "6DW7"
-            },
-            {
-                "id": "T0J",
-                "line": "1XPH"
-            }
-        ]
-    },
-    {
-        "shaka": "twentyone",
-        "bani": "649,667",
-        "advgutka": [
-            {
-                "id": "1SS",
-                "line": "JB1F"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "R2W",
-                "line": "9924"
-            },
-            {
-                "id": "WWS",
-                "line": "A6TP"
-            },
-            {
-                "id": "FW2",
-                "line": "UA2Q"
-            },
-            {
-                "id": "AR8",
-                "line": "X0D2"
-            },
-            {
-                "id": "NJT",
-                "line": "TU26"
-            },
-            {
-                "id": "Y9Y",
-                "line": "URQX"
-            },
-            {
-                "id": "5B3",
-                "line": "EU5D"
-            },
-            {
-                "id": "TD3",
-                "line": "B15G"
-            },
-            {
-                "id": "JBT",
-                "line": "9DLS"
-            },
-            {
-                "id": "1RZ",
-                "line": "T3P5"
-            },
-            {
-                "id": "H1X",
-                "line": "82A3"
-            },
-            {
-                "id": "A4T",
-                "line": "3VQ4"
-            },
-            {
-                "id": "854",
-                "line": "UXTY"
-            },
-            {
-                "id": "U3G",
-                "line": "718U"
-            },
-            {
-                "id": "F6Q",
-                "line": "GM4Y"
-            },
-            {
-                "id": "983",
-                "line": "HBMR"
-            },
-            {
-                "id": "AWY",
-                "line": "31HV"
-            }
-        ]
-    },
-    {
-        "shaka": "twentytwo",
-        "bani": "668,698",
-        "advgutka": [
-            {
-                "id": "D8W",
-                "line": "T7V2"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "BB0",
-                "line": "5K2X"
-            },
-            {
-                "id": "1U3",
-                "line": "J69J"
-            },
-            {
-                "id": "AN1",
-                "line": "EZHB"
-            },
-            {
-                "id": "7RC",
-                "line": "SZ9F"
-            },
-            {
-                "id": "HQ9",
-                "line": "CAUU"
-            },
-            {
-                "id": "HQ9",
-                "line": "N13S"
-            },
-            {
-                "id": "7ZU",
-                "line": "UWBJ"
-            },
-            {
-                "id": "EMS",
-                "line": "X0UZ"
-            },
-            {
-                "id": "RFW",
-                "line": "LAUC"
-            },
-            {
-                "id": "7BG",
-                "line": "NVSU"
-            },
-            {
-                "id": "JVF",
-                "line": "GVPR"
-            },
-            {
-                "id": "5V8",
-                "line": "NCR5"
-            },
-            {
-                "id": "4Y2",
-                "line": "2J37"
-            },
-            {
-                "id": "TDJ",
-                "line": "UNVN"
-            },
-            {
-                "id": "E75",
-                "line": "PH9D"
-            },
-            {
-                "id": "EMF",
-                "line": "GTKH"
-            }
-        ]
-    },
-    {
-        "shaka": "twentythree",
-        "bani": "699,714",
-        "advgutka": [
-            {
-                "id": "65D",
-                "line": "QQL2"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "83U",
-                "line": "5WDF"
-            },
-            {
-                "id": "GR1",
-                "line": "94CD"
-            },
-            {
-                "id": "GR1",
-                "line": "6PA0"
-            },
-            {
-                "id": "GBU",
-                "line": "G2V9"
-            },
-            {
-                "id": "AB8",
-                "line": "V8KK"
-            },
-            {
-                "id": "DH9",
-                "line": "UQ4G"
-            },
-            {
-                "id": "QMC",
-                "line": "LTR0"
-            },
-            {
-                "id": "RAE",
-                "line": "JR32"
-            },
-            {
-                "id": "UBH",
-                "line": "H0TY"
-            },
-            {
-                "id": "1ZH",
-                "line": "2SJL"
-            },
-            {
-                "id": "G2W",
-                "line": "UWX6"
-            },
-            {
-                "id": "CEE",
-                "line": "79BD"
-            },
-            {
-                "id": "2S3",
-                "line": "78JJ"
-            },
-            {
-                "id": "MMQ",
-                "line": "PPA6"
-            },
-            {
-                "id": "MMQ",
-                "line": "T5TT"
-            },
-            {
-                "id": "F09",
-                "line": "4U7B"
-            },
-            {
-                "id": "8Z4",
-                "line": "VWT1"
-            },
-            {
-                "id": "M0R",
-                "line": "S8M3"
-            }
-        ]
-    },
-    {
-        "shaka": "twentyfour",
-        "bani": "715,733",
-        "advgutka": [
-            {
-                "id": "MKG",
-                "line": "HHYF"
-            }
-        ],
-        "shabads": [
-            {
-                "id": "",
-                "line": ""
-            }
-        ],
-        "amritkirtann": [
-            {
-                "id": "39Z",
-                "line": "XZXA"
-            },
-            {
-                "id": "VDM",
-                "line": "T4TC"
-            },
-            {
-                "id": "5Q2",
-                "line": "CLXK"
-            },
-            {
-                "id": "BD3",
-                "line": "S8GG"
-            },
-            {
-                "id": "44N",
-                "line": "Y9ZU"
-            },
-            {
-                "id": "L72",
-                "line": "EY6T"
-            },
-            {
-                "id": "AB8",
-                "line": "XUFS"
-            },
-            {
-                "id": "AB8",
-                "line": "V8KK"
-            },
-            {
-                "id": "DH8",
-                "line": "VWUJ"
-            },
-            {
-                "id": "YSX",
-                "line": "G0W8"
-            },
-            {
-                "id": "3FK",
-                "line": "5UXS"
-            },
-            {
-                "id": "Q8V",
-                "line": "SP60"
-            },
-            {
-                "id": "UN3",
-                "line": "TBPH"
-            },
-            {
-                "id": "H6G",
-                "line": "C1ZY"
-            },
-            {
-                "id": "DH9",
-                "line": "UQ4G"
-            },
-            {
-                "id": "MKG",
-                "line": "HHYF"
-            }
-        ]
-    }
+  {
+    "shaka": "one",
+    "bani": "0,25",
+    "advgutka": [
+      {
+        "id": "CXV",
+        "line": "F2MT",
+        "linetext": "ਦੁਇ ਦੁਇ ਲੋਚਨ ਪੇਖਾ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "BQR",
+        "line": "VBZW",
+        "linetext": "ਬਾਬੀਹਾ ਅੰਮ੍ਰਿਤ ਵੇਲੈ ਬੋਲਿਆ ਤਾਂ ਦਰਿ ਸੁਣੀ ਪੁਕਾਰ ॥"
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "99U",
+        "line": "UVLP",
+        "linetext": "ਮਨੁ ਤਨੁ ਅੰਮ੍ਰਿਤਿ ਭਿੰਨਾ ॥"
+      },
+      {
+        "id": "ZRU",
+        "line": "S1J5",
+        "linetext": "ਗੁਰਮੁਖਿ ਜਿੰਦੂ ਜਪਿ ਨਾਮੁ ਕਰੰਮਾ ॥"
+      },
+      {
+        "id": "FR0",
+        "line": "AA04",
+        "linetext": "ਸਾ ਸੇਵਾ ਕੀਤੀ ਸਫਲ ਹੈ ਜਿਤੁ ਸਤਿਗੁਰ ਕਾ ਮਨੁ ਮੰਨੇ ॥"
+      },
+      {
+        "id": "GG3",
+        "line": "KQRP",
+        "linetext": "ਗੁਰਿ ਹਰਿ ਪ੍ਰਭੁ ਅਗਮੁ ਦ੍ਰਿੜਾਇਆ ਮਨੁ ਤਨੁ ਰੰਗਿ ਭੀਨਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "K9P",
+        "line": "3YE6",
+        "linetext": "ਰਸ ਭਿੰਨਿਅੜੇ ਅਪੁਨੇ ਰਾਮ ਸੰਗੇ ਸੇ ਲੋਇਣ ਨੀਕੇ ਰਾਮ ॥"
+      },
+      {
+        "id": "STU",
+        "line": "Z7SS",
+        "linetext": "ਹਰਿ ਪ੍ਰਭ ਰਤੇ ਲੋਇਣਾ ਗਿਆਨ ਅੰਜਨੁ ਗੁਰੁ ਦੇਇ ॥"
+      },
+      {
+        "id": "BKW",
+        "line": "8FV4",
+        "linetext": "ਲੋਇਣ ਰਤੇ ਲੋਇਣੀ ਕੰਨੀ ਸੁਰਤਿ ਸਮਾਇ ॥"
+      },
+      {
+        "id": "HFP",
+        "line": "JNH5",
+        "linetext": "ਗੁਰਹਿ ਦਿਖਾਇਓ ਲੋਇਨਾ ॥੧॥ ਰਹਾਉ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "two",
+    "bani": "26,64",
+    "advgutka": [
+      {
+        "id": "4JB",
+        "line": "52KU",
+        "linetext": "ਹਰਿ ਦਰਸਨ ਕਉ ਮੇਰਾ ਮਨੁ ਬਹੁ ਤਪਤੈ ਜਿਉ ਤ੍ਰਿਖਾਵੰਤੁ ਬਿਨੁ ਨੀਰ ॥੧॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "TAP",
+        "line": "KK0V",
+        "linetext": "ਹਰਿ ਪ੍ਰੇਮਿ ਕਸਾਈ ਦਿਨਸੁ ਰਾਤਿ ਹਰਿ ਰਤੀ ਹਰਿ ਰੰਗਿ ਚੋਲੇ ॥"
+      },
+      {
+        "id": "XSJ",
+        "line": "UBCM",
+        "linetext": "ਹਰਿ ਪ੍ਰੇਮ ਭਗਤਿ ਜਨ ਬੇਧਿਆ ਸੇ ਆਨ ਕਤ ਜਾਹੀ ॥"
+      },
+      {
+        "id": "4JB",
+        "line": "33MY",
+        "linetext": "ਮੇਰੈ ਮਨਿ ਪ੍ਰੇਮੁ ਲਗੋ ਹਰਿ ਤੀਰ ॥"
+      },
+      {
+        "id": "FKL",
+        "line": "9TCQ",
+        "linetext": "ਸੁਣਿ ਸਾਜਨ ਪ੍ਰੇਮ ਸੰਦੇਸਰਾ ਅਖੀ ਤਾਰ ਲਗੰਨਿ ॥"
+      },
+      {
+        "id": "LHY",
+        "line": "2HMB",
+        "linetext": "ਸਤਿਗੁਰਿ ਖੇਪ ਨਿਬਾਹੀ ਸੰਤਹੁ ॥"
+      },
+      {
+        "id": "9ND",
+        "line": "BFH4",
+        "linetext": "ਮਿਲੁ ਮਿਲੁ ਸਖੀ ਹਰਿ ਕਥਾ ਸੁਨਈਆ ॥"
+      },
+      {
+        "id": "CM9",
+        "line": "X9Q2",
+        "linetext": "ਰਾਮ ਗੁਰਿ ਮੋਹਨਿ ਮੋਹਿ ਮਨੁ ਲਈਆ ॥"
+      },
+      {
+        "id": "0U6",
+        "line": "2462",
+        "linetext": "ਪ੍ਰੇਮ ਪਟੋਲਾ ਤੈ ਸਹਿ ਦਿਤਾ ਢਕਣ ਕੂ ਪਤਿ ਮੇਰੀ ॥"
+      },
+      {
+        "id": "TJM",
+        "line": "WRSA",
+        "linetext": "ਓਹਾ ਪ੍ਰੇਮ ਪਿਰੀ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "0T2",
+        "line": "0FHS",
+        "linetext": "ਪ੍ਰੇਮ ਠਗਉਰੀ ਪਾਇ ਰੀਝਾਇ ਗੋਬਿੰਦ ਮਨੁ ਮੋਹਿਆ ਜੀਉ ॥"
+      },
+      {
+        "id": "86J",
+        "line": "4EUG",
+        "linetext": "ਮੇਰੈ ਮਨਿ ਤਨਿ ਪ੍ਰੇਮੁ ਲਗਾ ਹਰਿ ਢੋਲੇ ਜੀਉ ॥"
+      },
+      {
+        "id": "LBU",
+        "line": "Q5WY",
+        "linetext": "ਗੁਰੁ ਸੁੰਦਰੁ ਮੋਹਨੁ ਪਾਇ ਕਰੇ ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "three",
+    "bani": "65,105",
+    "advgutka": [
+      {
+        "id": "4GK",
+        "line": "CJGR",
+        "linetext": "ਹਮ ਮੈਲੇ ਤੁਮ ਊਜਲ ਕਰਤੇ ਹਮ ਨਿਰਗੁਨ ਤੂ ਦਾਤਾ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "YL7",
+        "line": "NX71",
+        "linetext": "ਹਮ ਮੂਰਖ ਮੁਗਧ ਅਗਿਆਨ ਮਤੀ ਸਰਣਾਗਤਿ ਪੁਰਖ ਅਜਨਮਾ ॥"
+      },
+      {
+        "id": "1SS",
+        "line": "JB1F",
+        "linetext": "ਕੋਟਿ ਬ੍ਰਹਮੰਡ ਕੋ ਠਾਕੁਰੁ ਸੁਆਮੀ ਸਰਬ ਜੀਆ ਕਾ ਦਾਤਾ ਰੇ ॥"
+      },
+      {
+        "id": "JYU",
+        "line": "F7B7",
+        "linetext": "ਨਾ ਜਾਣਾ ਮੂਰਖੁ ਹੈ ਕੋਈ ਨਾ ਜਾਣਾ ਸਿਆਣਾ ॥"
+      },
+      {
+        "id": "JLC",
+        "line": "BS81",
+        "linetext": "ਰਾਖਹੁ ਅਪਨੀ ਸਰਣਿ ਪ੍ਰਭ ਮੋਹਿ ਕਿਰਪਾ ਧਾਰੇ ॥"
+      },
+      {
+        "id": "GWW",
+        "line": "RXJG",
+        "linetext": "ਹਮ ਬਾਰਿਕ ਕਛੂਅ ਨ ਜਾਨਹ ਗਤਿ ਮਿਤਿ ਤੇਰੇ ਮੂਰਖ ਮੁਗਧ ਇਆਨਾ ॥"
+      },
+      {
+        "id": "N1W",
+        "line": "P5D8",
+        "linetext": "ਮੈ ਮਨਿ ਤਨਿ ਬਿਰਹੁ ਅਤਿ ਅਗਲਾ ਕਿਉ ਪ੍ਰੀਤਮੁ ਮਿਲੈ ਘਰਿ ਆਇ ॥"
+      },
+      {
+        "id": "J46",
+        "line": "H3J7",
+        "linetext": "ਹਮਰੈ ਮਨਿ ਚਿਤਿ ਹਰਿ ਆਸ ਨਿਤ ਕਿਉ ਦੇਖਾ ਹਰਿ ਦਰਸੁ ਤੁਮਾਰਾ ॥"
+      },
+      {
+        "id": "PJG",
+        "line": "LVNN",
+        "linetext": "ਹਮ ਮੂਰਖ ਮੁਗਧ ਮਿਲਾਇਆ ਹਰਿ ਕਿਰਪਾ ਧਾਰੀ ਰਾਮ ॥"
+      },
+      {
+        "id": "HCR",
+        "line": "MX12",
+        "linetext": "ਕਿਛਹੂ ਕਾਜੁ ਨ ਕੀਓ ਜਾਨਿ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "four",
+    "bani": "106,136",
+    "advgutka": [
+      {
+        "id": "GPA",
+        "line": "BX16",
+        "linetext": "ਸੁਨਹੁ ਬਿਨੰਤੀ ਠਾਕੁਰ ਮੇਰੇ ਜੀਅ ਜੰਤ ਤੇਰੇ ਧਾਰੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "GPA",
+        "line": "BX16",
+        "linetext": "ਸੁਨਹੁ ਬਿਨੰਤੀ ਠਾਕੁਰ ਮੇਰੇ ਜੀਅ ਜੰਤ ਤੇਰੇ ਧਾਰੇ ॥"
+      },
+      {
+        "id": "QH0",
+        "line": "BYVW",
+        "linetext": "ਬਾਬੀਹਾ ਬੇਨਤੀ ਕਰੇ ਕਰਿ ਕਿਰਪਾ ਦੇਹੁ ਜੀਅ ਦਾਨ ॥"
+      },
+      {
+        "id": "RZX",
+        "line": "E9G0",
+        "linetext": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਮੋਹਿ ਲੀਆ ਜੀਉ ਦੇਖਿ ਚਲਤ ਤੁਮਾਰੇ ॥"
+      },
+      {
+        "id": "W2D",
+        "line": "K7AR",
+        "linetext": "ਸੁਣਿ ਯਾਰ ਹਮਾਰੇ ਸਜਣ ਇਕ ਕਰਉ ਬੇਨੰਤੀਆ ॥"
+      },
+      {
+        "id": "C10",
+        "line": "EWEJ",
+        "linetext": "ਦਾਸ ਤੇਰੇ ਕੀ ਬੇਨਤੀ ਰਿਦ ਕਰਿ ਪਰਗਾਸੁ ॥"
+      },
+      {
+        "id": "5SV",
+        "line": "FZST",
+        "linetext": "ਸਤਿਗੁਰ ਪਾਸਿ ਬੇਨੰਤੀਆ ਮਿਲੈ ਨਾਮੁ ਆਧਾਰਾ ॥"
+      },
+      {
+        "id": "262",
+        "line": "0EC3",
+        "linetext": "ਸੁਣਿ ਨਾਹ ਪ੍ਰਭੂ ਜੀਉ ਏਕਲੜੀ ਬਨ ਮਾਹੇ ॥"
+      },
+      {
+        "id": "2L7",
+        "line": "RAX0",
+        "linetext": "ਸੁਨਹੁ ਬੇਨੰਤੀਆ ਸੁਆਮੀ ਮੇਰੇ ਰਾਮ ॥"
+      },
+      {
+        "id": "2TY",
+        "line": "J444",
+        "linetext": "ਸੁਣਿ ਨਾਹ ਪਿਆਰੇ ਇਕ ਬੇਨੰਤੀ ਮੇਰੀ ॥"
+      },
+      {
+        "id": "2K9",
+        "line": "M2RX",
+        "linetext": "ਕਰਉ ਬੇਨਤੀ ਸਤਿਗੁਰ ਅਪੁਨੀ ॥"
+      },
+      {
+        "id": "1EZ",
+        "line": "9NL8",
+        "linetext": "ਵਿਸਰੁ ਨਾਹੀ ਪ੍ਰਭ ਦੀਨ ਦਇਆਲਾ ॥"
+      },
+      {
+        "id": "787",
+        "line": "9BP7",
+        "linetext": "ਮੇਰੋ ਮਨੁ ਜਤ ਕਤ ਤੁਝਹਿ ਸਮੑਾਰੈ ॥"
+      },
+      {
+        "id": "1F0",
+        "line": "PTUN",
+        "linetext": "ਕਰਉ ਬਿਨਉ ਗੁਰ ਅਪਨੇ ਪ੍ਰੀਤਮ ਹਰਿ ਵਰੁ ਆਣਿ ਮਿਲਾਵੈ ॥"
+      },
+      {
+        "id": "4UY",
+        "line": "52Z3",
+        "linetext": "ਮੋਹਨ ਘਰਿ ਆਵਹੁ ਕਰਉ ਜੋਦਰੀਆ ॥"
+      },
+      {
+        "id": "ES8",
+        "line": "D9KP",
+        "linetext": "ਹੇ ਰਵਿ ਹੇ ਸਸਿ ਹੇ ਕਰੁਨਾਨਿਧਿ ਮੇਰੀ ਅਬੈ ਬਿਨਤੀ ਸੁਨਿ ਲੀਜੈ ॥"
+      },
+      {
+        "id": "LUU",
+        "line": "Y8WJ",
+        "linetext": "ਸੇ ਸੰਜੋਗ ਕਰਹੁ ਮੇਰੇ ਪਿਆਰੇ ॥"
+      },
+      {
+        "id": "JMX",
+        "line": "76L9",
+        "linetext": "ਠਾਕੁਰ ਬਿਨਤੀ ਕਰਨ ਜਨੁ ਆਇਓ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "five",
+    "bani": "137,179",
+    "advgutka": [
+      {
+        "id": "HCY",
+        "line": "CGSS",
+        "linetext": "ਮੂ ਲਾਲਨ ਸਿਉ ਪ੍ਰੀਤਿ ਬਨੀ ॥ ਰਹਾਉ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "FMU",
+        "line": "PKVD",
+        "linetext": "ਖੋਜਤ ਫਿਰਉ ਬਿਦੇਸਿ ਪੀਉ ਕਤ ਪਾਈਐ ॥"
+      },
+      {
+        "id": "4ZM",
+        "line": "R3ZB",
+        "linetext": "ਖੋਜਤ ਖੋਜਤ ਮੈ ਫਿਰਾ ਖੋਜਉ ਬਨ ਥਾਨ ॥"
+      },
+      {
+        "id": "WG7",
+        "line": "GLKN",
+        "linetext": "ਹਠ ਮੰਝਾਹੂ ਮੈ ਮਾਣਕੁ ਲਧਾ ॥"
+      },
+      {
+        "id": "PDY",
+        "line": "P2L6",
+        "linetext": "ਗੁਰ ਮਿਲਿ ਲਧਾ ਜੀ ਰਾਮੁ ਪਿਆਰਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "KLQ",
+        "line": "NYD5",
+        "linetext": "ਮੈ ਮਨੁ ਤਨੁ ਖੋਜਿ ਖੋਜੇਦਿਆ ਸੋ ਪ੍ਰਭੁ ਲਧਾ ਲੋੜਿ ॥"
+      },
+      {
+        "id": "1L8",
+        "line": "9CWN",
+        "linetext": "ਖੋਜਿ ਲਹਉ ਹਰਿ ਸੰਤ ਜਨਾ ਸੰਗੁ ਸੰਮ੍ਰਿਥ ਪੁਰਖ ਮਿਲਾਏ ॥"
+      },
+      {
+        "id": "AJZ",
+        "line": "WWUL",
+        "linetext": "ਮਨੁ ਰਾਮ ਨਾਮਾ ਬੇਧੀਅਲੇ ॥"
+      },
+      {
+        "id": "7RY",
+        "line": "U4LA",
+        "linetext": "ਮੈ ਪੇਖਿਓ ਰੀ ਊਚਾ ਮੋਹਨੁ ਸਭ ਤੇ ਊਚਾ ॥"
+      },
+      {
+        "id": "PUK",
+        "line": "67CK",
+        "linetext": "ਫਿਰਦੀ ਫਿਰਦੀ ਨਾਨਕ ਜੀਉ ਹਉ ਫਾਵੀ ਥੀਈ ਬਹੁਤੁ ਦਿਸਾਵਰ ਪੰਧਾ ॥"
+      },
+      {
+        "id": "FB6",
+        "line": "6TAM",
+        "linetext": "ਖੋਜਤ ਸੰਤ ਫਿਰਹਿ ਪ੍ਰਭ ਪ੍ਰਾਣ ਅਧਾਰੇ ਰਾਮ ॥"
+      },
+      {
+        "id": "BJJ",
+        "line": "MFJM",
+        "linetext": "ਰੂੜੋ ਮਨੁ ਹਰਿ ਰੰਗੋ ਲੋੜੈ ॥"
+      },
+      {
+        "id": "T8B",
+        "line": "XDMW",
+        "linetext": "ਹਉ ਢੂੰਢੇਂਦੀ ਸਜਣਾ ਸਜਣੁ ਮੈਡੈ ਨਾਲਿ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "six",
+    "bani": "180,209",
+    "advgutka": [
+      {
+        "id": "HNQ",
+        "line": "FADS",
+        "linetext": "ਕਵਨ ਗੁਨ ਪ੍ਰਾਨਪਤਿ ਮਿਲਉ ਮੇਰੀ ਮਾਈ ॥੧॥ ਰਹਾਉ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "2BZ",
+        "line": "9C6L",
+        "linetext": "ਮੇਰੇ ਮਨ ਪਰਦੇਸੀ ਵੇ ਪਿਆਰੇ ਆਉ ਘਰੇ ॥"
+      },
+      {
+        "id": "LPK",
+        "line": "PUEL",
+        "linetext": "ਮੰਦਰਿ ਚਰਿ ਕੈ ਪੰਥੁ ਨਿਹਾਰਉ ਨੈਨ ਨੀਰਿ ਭਰਿ ਆਇਓ ॥੨॥"
+      },
+      {
+        "id": "UVQ",
+        "line": "QH21",
+        "linetext": "ਸਾਜਨੁ ਦੇਖਾ ਤਾ ਗਲਿ ਮਿਲਾ ਸਾਚੁ ਪਠਾਇਓ ਲੇਖੁ ॥"
+      },
+      {
+        "id": "EFB",
+        "line": "1QT3",
+        "linetext": "ਮੋਹਨ ਨੀਦ ਨ ਆਵੈ ਹਾਵੈ ਹਾਰ ਕਜਰ ਬਸਤ੍ਰ ਅਭਰਨ ਕੀਨੇ ॥"
+      },
+      {
+        "id": "Y3K",
+        "line": "E69K",
+        "linetext": "ਮੇਰੈ ਅੰਤਰਿ ਲੋਚਾ ਮਿਲਣ ਕੀ ਪਿਆਰੇ ਹਉ ਕਿਉ ਪਾਈ ਗੁਰ ਪੂਰੇ ॥"
+      },
+      {
+        "id": "2TY",
+        "line": "L6B8",
+        "linetext": "ਸਾਜਨ ਦੇਸਿ ਵਿਦੇਸੀਅੜੇ ਸਾਨੇਹੜੇ ਦੇਦੀ ॥"
+      },
+      {
+        "id": "K0T",
+        "line": "7SGK",
+        "linetext": "ਪੰਥੁ ਨਿਹਾਰੈ ਕਾਮਨੀ ਲੋਚਨ ਭਰੀ ਲੇ ਉਸਾਸਾ ॥"
+      },
+      {
+        "id": "39Y",
+        "line": "1XWZ",
+        "linetext": "ਹਉ ਖੜੀ ਨਿਹਾਲੀ ਪੰਧੁ ਮਤੁ ਮੂੰ ਸਜਣੁ ਆਵਏ ॥"
+      },
+      {
+        "id": "0CJ",
+        "line": "MHEG",
+        "linetext": "ਹਉ ਪੰਥੁ ਦਸਾਈ ਨਿਤ ਖੜੀ ਕੋਈ ਪ੍ਰਭੁ ਦਸੇ ਤਿਨਿ ਜਾਉ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "seven",
+    "bani": "210,246",
+    "advgutka": [
+      {
+        "id": "HXD",
+        "line": "11XT",
+        "linetext": "ਕੋਈ ਆਣਿ ਮਿਲਾਵੈ ਮੇਰੇ ਪ੍ਰਾਣ ਜੀਵਾਇਆ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "86J",
+        "line": "P8NX",
+        "linetext": "ਆਉ ਸਖੀ ਗੁਣ ਕਾਮਣ ਕਰੀਹਾ ਜੀਉ ॥"
+      },
+      {
+        "id": "8LK",
+        "line": "J83H",
+        "linetext": "ਆਵਹੁ ਸੰਤ ਪ੍ਰਾਨ ਸੁਖਦਾਤੇ ਸਿਮਰਹ ਪ੍ਰਭੁ ਅਬਿਨਾਸੀ ॥"
+      },
+      {
+        "id": "H3C",
+        "line": "WBJ9",
+        "linetext": "ਕੋਈ ਆਵੈ ਸੰਤੋ ਹਰਿ ਕਾ ਜਨੁ ਸੰਤੋ ਮੇਰਾ ਪ੍ਰੀਤਮ ਜਨੁ ਸੰਤੋ ਮੋਹਿ ਮਾਰਗੁ ਦਿਖਲਾਵੈ ॥"
+      },
+      {
+        "id": "903",
+        "line": "UKNX",
+        "linetext": "ਹੋਇ ਇਕਤ੍ਰ ਮਿਲਹੁ ਸੰਤ ਸਾਜਨ ਗੁਣ ਗੋਬਿੰਦ ਨਿਤ ਗਾਹਿ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "2YB",
+        "line": "RSJS",
+        "linetext": "ਆਵਹੁ ਮੀਤ ਇਕਤ੍ਰ ਹੋਇ ਰਸ ਕਸ ਸਭਿ ਭੁੰਚਹ ॥"
+      },
+      {
+        "id": "MBE",
+        "line": "9Z2V",
+        "linetext": "ਆਉ ਸਜਣ ਤੂ ਮੁਖਿ ਲਗੁ ਮੇਰਾ ਤਨੁ ਮਨੁ ਠੰਢਾ ਹੋਇ ॥੧॥"
+      },
+      {
+        "id": "XSJ",
+        "line": "XUXH",
+        "linetext": "ਮਿਲੁ ਮੇਰੇ ਪ੍ਰੀਤਮ ਪਿਆਰਿਆ ॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "9GM",
+        "line": "XD5W",
+        "linetext": "ਆਵਹੁ ਸਜਣਾ ਹਉ ਦੇਖਾ ਦਰਸਨੁ ਤੇਰਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "ASQ",
+        "line": "J0D7",
+        "linetext": "ਆਵਹੁ ਸੰਤ ਮਿਲਹੁ ਮੇਰੇ ਭਾਈ ਮਿਲਿ ਹਰਿ ਹਰਿ ਕਥਾ ਕਰਹੁ ॥"
+      },
+      {
+        "id": "WJD",
+        "line": "NTAU",
+        "linetext": "ਮਨਿ ਬੈਰਾਗੁ ਭਇਆ ਦਰਸਨੁ ਦੇਖਣੈ ਕਾ ਚਾਉ ॥"
+      },
+      {
+        "id": "HXD",
+        "line": "3K7J",
+        "linetext": "ਹਉ ਰਹਿ ਨ ਸਕਾ ਬਿਨੁ ਦੇਖੇ ਪ੍ਰੀਤਮਾ ਮੈ ਨੀਰੁ ਵਹੇ ਵਹਿ ਚਲੈ ਜੀਉ ॥੩॥"
+      }
+    ]
+  },
+  {
+    "shaka": "eight",
+    "bani": "247,273",
+    "advgutka": [
+      {
+        "id": "ES3",
+        "line": "K5A4",
+        "linetext": "ਅੰਮ੍ਰਿਤੁ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ ਮਿਲਿ ਪੀਵਹੁ ਭਾਈ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "H6E",
+        "line": "K9HR",
+        "linetext": "ਧਨੁ ਧੰਨੁ ਤਿਨਾ ਕਾ ਗੁਰੂ ਹੈ ਜਿਸੁ ਅੰਮ੍ਰਿਤ ਫਲ ਹਰਿ ਲਾਗੇ ਮੁਖਾ ॥੬॥"
+      },
+      {
+        "id": "6P1",
+        "line": "43PE",
+        "linetext": "ਅੰਮ੍ਰਿਤ ਬਚਨ ਸਾਧ ਕੀ ਬਾਣੀ ॥"
+      },
+      {
+        "id": "FUQ",
+        "line": "RH76",
+        "linetext": "ਅੰਮ੍ਰਿਤ ਬਾਣੀ ਗੁਰ ਕੀ ਮੀਠੀ ॥"
+      },
+      {
+        "id": "CF0",
+        "line": "8REA",
+        "linetext": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਮੰਨਿ ਵਸਾਏ ॥"
+      },
+      {
+        "id": "75N",
+        "line": "ZYGN",
+        "linetext": "ਨਾਨਕ ਅੰਮ੍ਰਿਤੁ ਸਦ ਹੀ ਵਰਸਦਾ ਗੁਰਮੁਖਿ ਦੇਵੈ ਹਰਿ ਸੋਇ ॥੧॥"
+      },
+      {
+        "id": "ZBY",
+        "line": "JSG1",
+        "linetext": "ਗੁਰਮੁਖਿ ਰੰਗੁ ਭਇਆ ਅਤਿ ਗੂੜਾ ਹਰਿ ਰੰਗਿ ਭੀਨੀ ਮੇਰੀ ਚੋਲੀ ॥੧॥"
+      },
+      {
+        "id": "JK3",
+        "line": "7VM2",
+        "linetext": "ਲਾਲੁ ਚੋਲਨਾ ਤੈ ਤਨਿ ਸੋਹਿਆ ॥"
+      },
+      {
+        "id": "BVU",
+        "line": "4E3U",
+        "linetext": "ਗੁਲਿ ਹੋਲੀ ਬਬਾਗ਼ਿ ਦਹਿਰ ਬੂ ਕਰਦ ।"
+      },
+      {
+        "id": "68G",
+        "line": "P1HA",
+        "linetext": "ਸਹਜਿ ਸਮਾਇਓ ਗੁਰਹਿ ਬਤਾਇਓ ਰੰਗਿ ਰੰਗੀ ਮੇਰੇ ਤਨ ਕੀ ਚੋਲੀ ॥"
+      },
+      {
+        "id": "EUU",
+        "line": "VS1N",
+        "linetext": "ਹਰਿ ਰੰਗਿ ਚਲੂਲੈ ਜੋ ਰਤੇ ਤਿਨ ਭਿਨੀ ਹਰਿ ਰੰਗਿ ਚੋਲੀਆ ॥"
+      },
+      {
+        "id": "ZBQ",
+        "line": "Q52J",
+        "linetext": "ਝਿਮਿ ਝਿਮਿ ਵਰਸੈ ਅੰਮ੍ਰਿਤ ਧਾਰਾ ॥"
+      },
+      {
+        "id": "ARB",
+        "line": "4EBD",
+        "linetext": "ਝਿਮਿ ਝਿਮੇ ਝਿਮਿ ਝਿਮਿ ਵਰਸੈ ਅੰਮ੍ਰਿਤ ਧਾਰਾ ਰਾਮ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "nine",
+    "bani": "274,309",
+    "advgutka": [
+      {
+        "id": "TQX",
+        "line": "S5DW",
+        "linetext": "ਜੈਸਾ ਸਤਿਗੁਰੁ ਸੁਣੀਦਾ ਤੈਸੋ ਹੀ ਮੈ ਡੀਠੁ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "4SP",
+        "line": "B1PW",
+        "linetext": "ਮੇਰੇ ਰਾਮ ਕੋ ਭੰਡਾਰੁ ॥"
+      },
+      {
+        "id": "HRV",
+        "line": "C4Z2",
+        "linetext": "ਸਾ ਰੁਤਿ ਸੁਹਾਵੀ ਜਿਤੁ ਤੁਧੁ ਸਮਾਲੀ ॥"
+      },
+      {
+        "id": "8WL",
+        "line": "DPSA",
+        "linetext": "ਤੂ ਆਪੇ ਗੁਰੁ ਚੇਲਾ ਹੈ ਆਪੇ ਗੁਰ ਵਿਚੁ ਦੇ ਤੁਝਹਿ ਧਿਆਈ ॥੧੯॥"
+      },
+      {
+        "id": "CB2",
+        "line": "8SNH",
+        "linetext": "ਜੀਅ ਪ੍ਰਾਨ ਧਨੁ ਹਰਿ ਕੋ ਨਾਮੁ ॥"
+      },
+      {
+        "id": "B5H",
+        "line": "VQ1J",
+        "linetext": "ਰਤਨਾ ਰਤਨ ਪਦਾਰਥ ਬਹੁ ਸਾਗਰੁ ਭਰਿਆ ਰਾਮ ॥"
+      },
+      {
+        "id": "KUB",
+        "line": "BZ18",
+        "linetext": "ਹਉ ਪੂੰਜੀ ਨਾਮੁ ਦਸਾਇਦਾ ਕੋ ਦਸੇ ਹਰਿ ਧਨੁ ਰਾਸਿ ॥"
+      },
+      {
+        "id": "9P8",
+        "line": "ARQ0",
+        "linetext": "ਭਾਗ ਸੁਲਖਣਾ ਹਰਿ ਕੰਤੁ ਹਮਾਰਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "H6G",
+        "line": "C1ZY",
+        "linetext": "ਆਦਿ ਜੁਗਾਦਿ ਭਗਤਨ ਕਾ ਰਾਖਾ ਉਸਤਤਿ ਕਰਿ ਕਰਿ ਜੀਵਾ ॥"
+      },
+      {
+        "id": "PVL",
+        "line": "L8DN",
+        "linetext": "ਹਰਿ ਜਨ ਨਾਚਹੁ ਹਰਿ ਹਰਿ ਧਿਆਇ ॥"
+      },
+      {
+        "id": "NHN",
+        "line": "PWEJ",
+        "linetext": "ਜਾ ਕਉ ਆਇਓ ਏਕੁ ਰਸਾ ॥"
+      },
+      {
+        "id": "NHN",
+        "line": "LMPK",
+        "linetext": "ਜਾ ਕਉ ਗੁਰਿ ਦੀਨੋ ਇਹੁ ਅੰਮ੍ਰਿਤੁ ਤਿਸ ਹੀ ਕਉ ਬਨਿ ਆਵੈ ॥੧॥"
+      },
+      {
+        "id": "UQF",
+        "line": "0UMP",
+        "linetext": "ਭਗਤਿ ਵਛਲੁ ਸਤਿਗੁਰੁ ਨਿਰੰਕਾਰਾ ।੨੨।"
+      },
+      {
+        "id": "UJD",
+        "line": "9XTK",
+        "linetext": "ਹਮ ਧਨਵੰਤ ਭਾਗਠ ਸਚ ਨਾਇ ॥"
+      },
+      {
+        "id": "0AJ",
+        "line": "G19M",
+        "linetext": "ਹਮ ਘਰਿ ਨਾਮੁ ਖਜਾਨਾ ਸਦਾ ਹੈ ਭਗਤਿ ਭਰੇ ਭੰਡਾਰਾ ॥"
+      },
+      {
+        "id": "4A2",
+        "line": "JQU4",
+        "linetext": "ਭਗਤਿ ਭੰਡਾਰ ਗੁਰਿ ਨਾਨਕ ਕਉ ਸਉਪੇ ਫਿਰਿ ਲੇਖਾ ਮੂਲਿ ਨ ਲਇਆ ॥੪॥੩॥੧੪॥"
+      }
+    ]
+  },
+  {
+    "shaka": "ten",
+    "bani": "310,342",
+    "advgutka": [
+      {
+        "id": "6GE",
+        "line": "8YHV",
+        "linetext": "ਤੁਮ ਦਾਤੇ ਠਾਕੁਰ ਪ੍ਰਤਿਪਾਲਕ ਨਾਇਕ ਖਸਮ ਹਮਾਰੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "VWF",
+        "line": "NQQ5",
+        "linetext": "ਮਾਹਾ ਰੁਤੀ ਸਭ ਤੂੰ ਘੜੀ ਮੂਰਤ ਵੀਚਾਰਾ ॥"
+      },
+      {
+        "id": "4PC",
+        "line": "HTP5",
+        "linetext": "ਕਿਨਹੀ ਬਨਜਿਆ ਕਾਂਸੀ ਤਾਂਬਾ ਕਿਨਹੀ ਲਉਗ ਸੁਪਾਰੀ ॥"
+      },
+      {
+        "id": "FVR",
+        "line": "FLB0",
+        "linetext": "ਭਾਈ ਰੇ ਰਾਮੁ ਕਹਹੁ ਚਿਤੁ ਲਾਇ ॥"
+      },
+      {
+        "id": "ANJ",
+        "line": "7SGG",
+        "linetext": "ਜਪਿ ਮਨ ਰਾਮ ਨਾਮੁ ਨਿਸਤਾਰਾ ॥"
+      },
+      {
+        "id": "MLA",
+        "line": "25LP",
+        "linetext": "ਸਾਚਾ ਸਾਹੁ ਗੁਰੂ ਸੁਖਦਾਤਾ ਹਰਿ ਮੇਲੇ ਭੁਖ ਗਵਾਏ ॥"
+      },
+      {
+        "id": "R3N",
+        "line": "9DJ0",
+        "linetext": "ਵਣਜਾਰੇ ਸਿਖ ਆਵਦੇ ਸਬਦਿ ਲਘਾਵਣਹਾਰੁ ॥"
+      },
+      {
+        "id": "R3N",
+        "line": "UMG7",
+        "linetext": "ਸਤਿਗੁਰੁ ਸੇਵੀਐ ਆਪਣਾ ਪਾਈਐ ਨਾਮੁ ਅਪਾਰੁ ॥"
+      },
+      {
+        "id": "K14",
+        "line": "GJPU",
+        "linetext": "ਮੇਰੇ ਸਾਹਾ ਮੈ ਹਰਿ ਦਰਸਨ ਸੁਖੁ ਹੋਇ ॥"
+      },
+      {
+        "id": "K14",
+        "line": "D7G7",
+        "linetext": "ਸਭਨਾ ਵਿਚਿ ਤੂ ਵਰਤਦਾ ਸਾਹਾ ਸਭਿ ਤੁਝਹਿ ਧਿਆਵਹਿ ਦਿਨੁ ਰਾਤਿ ॥"
+      },
+      {
+        "id": "JA8",
+        "line": "0QXT",
+        "linetext": "ਹਉ ਬਨਜਾਰੋ ਰਾਮ ਕੋ ਸਹਜ ਕਰਉ ਬੵਾਪਾਰੁ ॥"
+      },
+      {
+        "id": "F3Z",
+        "line": "YN4P",
+        "linetext": "ਮੈ ਬਨਜਾਰਨਿ ਰਾਮ ਕੀ ॥"
+      },
+      {
+        "id": "UHK",
+        "line": "23T2",
+        "linetext": "ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ ਜੈਸੀ ਤੂੰ ਰਾਸਿ ਦੇਹਿ ਤੈਸੀ ਹਮ ਲੇਹਿ ॥"
+      },
+      {
+        "id": "9M6",
+        "line": "6KDP",
+        "linetext": "ਸਤਿਗੁਰ ਸਚਾ ਪਾਤਿਸਾਹੁ ਪਾਤਿਸਾਹਾਂ ਪਾਤਿਸਾਹੁ ਜੁਹਾਰੀ ।"
+      },
+      {
+        "id": "UQF",
+        "line": "X938",
+        "linetext": "ਸਤਿਗੁਰੁ ਪੂਰਾ ਸਾਹੁ ਹੈ ਤ੍ਰਿਭਵਣ ਜਗੁ ਤਿਸ ਦਾ ਵਣਜਾਰਾ ।"
+      }
+    ]
+  },
+  {
+    "shaka": "eleven",
+    "bani": "343,375",
+    "advgutka": [
+      {
+        "id": "8X3",
+        "line": "3MFQ",
+        "linetext": "ਕਿਆ ਗੁਣ ਤੇਰੇ ਸਾਰਿ ਸਮੑਾਲੀ ਮੋਹਿ ਨਿਰਗੁਨ ਕੇ ਦਾਤਾਰੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "8X3",
+        "line": "3MFQ",
+        "linetext": "ਕਿਆ ਗੁਣ ਤੇਰੇ ਸਾਰਿ ਸਮੑਾਲੀ ਮੋਹਿ ਨਿਰਗੁਨ ਕੇ ਦਾਤਾਰੇ ॥"
+      },
+      {
+        "id": "7D0",
+        "line": "RL19",
+        "linetext": "ਕਵਨ ਵਡਾਈ ਕਹਿ ਸਕਉ ਬੇਅੰਤ ਗੁਨੀਤਾ ॥"
+      },
+      {
+        "id": "7D0",
+        "line": "6XGL",
+        "linetext": "ਮਹਿਮਾ ਸਾਧੂ ਸੰਗ ਕੀ ਸੁਨਹੁ ਮੇਰੇ ਮੀਤਾ ॥"
+      },
+      {
+        "id": "7D0",
+        "line": "JM2H",
+        "linetext": "ਪਿੰਗੁਲ ਪਰਬਤ ਪਾਰਿ ਪਰੇ ਖਲ ਚਤੁਰ ਬਕੀਤਾ ॥"
+      },
+      {
+        "id": "1YP",
+        "line": "1JTC",
+        "linetext": "ਕਿਆ ਗੁਣ ਤੇਰੇ ਆਖਿ ਵਖਾਣਾ ਕੀਮਤਿ ਕਹਣੁ ਨ ਜਾਈ ॥"
+      },
+      {
+        "id": "5VV",
+        "line": "BB56",
+        "linetext": "ਐਸੋ ਧਣੀ ਗੁਵਿੰਦੁ ਹਮਾਰਾ ॥"
+      },
+      {
+        "id": "GUF",
+        "line": "75NP",
+        "linetext": "ਭੀ ਤੂੰਹੈ ਸਾਲਾਹਣਾ ਆਖਣ ਲਹੈ ਨ ਚਾਉ ॥੧॥"
+      },
+      {
+        "id": "9VE",
+        "line": "7XC0",
+        "linetext": "ਭੀ ਤੇਰੀ ਕੀਮਤਿ ਨਾ ਪਵੈ ਹਉ ਕੇਵਡੁ ਆਖਾ ਨਾਉ ॥੧॥"
+      },
+      {
+        "id": "XRD",
+        "line": "YV4S",
+        "linetext": "ਰਾਜਨ ਮਹਿ ਤੂੰ ਰਾਜਾ ਕਹੀਅਹਿ ਭੂਮਨ ਮਹਿ ਭੂਮਾ ॥"
+      },
+      {
+        "id": "8SY",
+        "line": "J7A7",
+        "linetext": "ਜੋਗੀ ਅੰਦਰਿ ਜੋਗੀਆ ॥"
+      },
+      {
+        "id": "356",
+        "line": "XEU4",
+        "linetext": "ਤੇਰੀ ਅਕਥ ਕਥਾ ਕਥਨੁ ਨ ਜਾਈ ॥"
+      },
+      {
+        "id": "WCG",
+        "line": "9676",
+        "linetext": "ਉਪਮਾ ਜਾਤ ਨ ਕਹੀ ਮੇਰੇ ਪ੍ਰਭ ਕੀ ਉਪਮਾ ਜਾਤ ਨ ਕਹੀ ॥"
+      },
+      {
+        "id": "8ZL",
+        "line": "1E8J",
+        "linetext": "ਤੇਰੇ ਕਵਨ ਕਵਨ ਗੁਣ ਕਹਿ ਕਹਿ ਗਾਵਾ ਤੂ ਸਾਹਿਬ ਗੁਣੀ ਨਿਧਾਨਾ ॥"
+      },
+      {
+        "id": "9Z3",
+        "line": "FLRW",
+        "linetext": "ਹਉ ਕਿਆ ਸਾਲਾਹੀ ਕਿਰਮ ਜੰਤੁ ਵਡੀ ਤੇਰੀ ਵਡਿਆਈ ॥"
+      },
+      {
+        "id": "5UL",
+        "line": "SGK9",
+        "linetext": "ਹਮਰੀ ਜਿਹਬਾ ਏਕ ਪ੍ਰਭ ਹਰਿ ਕੇ ਗੁਣ ਅਗਮ ਅਥਾਹ ॥"
+      },
+      {
+        "id": "K9P",
+        "line": "SQW7",
+        "linetext": "ਕਿਆ ਗੁਣ ਤੇਰੇ ਕਹਿ ਸਕਉ ਪ੍ਰਭ ਅੰਤਰਜਾਮੀ ਰਾਮ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twelve",
+    "bani": "376,405",
+    "advgutka": [
+      {
+        "id": "BJ7",
+        "line": "PRBR",
+        "linetext": "ਪ੍ਰਭ ਕੀਜੈ ਕ੍ਰਿਪਾ ਨਿਧਾਨ ਹਮ ਹਰਿ ਗੁਨ ਗਾਵਹਗੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "BA4",
+        "line": "XS7D",
+        "linetext": "ਸਸਾ ਸਰਨਿ ਪਰੇ ਅਬ ਹਾਰੇ ॥"
+      },
+      {
+        "id": "JLC",
+        "line": "BS81",
+        "linetext": "ਰਾਖਹੁ ਅਪਨੀ ਸਰਣਿ ਪ੍ਰਭ ਮੋਹਿ ਕਿਰਪਾ ਧਾਰੇ ॥"
+      },
+      {
+        "id": "FYG",
+        "line": "W7F2",
+        "linetext": "ਤੇਰੈ ਭਰੋਸੈ ਪਿਆਰੇ ਮੈ ਲਾਡ ਲਡਾਇਆ ॥"
+      },
+      {
+        "id": "4V4",
+        "line": "01HB",
+        "linetext": "ਰਾਖੁ ਰਾਖੁ ਮੇਰੇ ਬੀਠੁਲਾ ਜਨੁ ਸਰਨਿ ਤੁਮੑਾਰੀ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "663",
+        "line": "586R",
+        "linetext": "ਹਮ ਬਾਰਿਕ ਪਿਤਾ ਪ੍ਰਭੁ ਦਾਤਾ ॥"
+      },
+      {
+        "id": "BJ7",
+        "line": "PRBR",
+        "linetext": "ਪ੍ਰਭ ਕੀਜੈ ਕ੍ਰਿਪਾ ਨਿਧਾਨ ਹਮ ਹਰਿ ਗੁਨ ਗਾਵਹਗੇ ॥"
+      },
+      {
+        "id": "L1B",
+        "line": "BP6L",
+        "linetext": "ਮੋਹਿ ਅਨਾਥ ਪ੍ਰਿਅ ਨਾਥ ਜਿਉ ਜਾਨਹੁ ਤਿਉ ਰਖਹੁ ॥"
+      },
+      {
+        "id": "7GW",
+        "line": "8E65",
+        "linetext": "ਤਉ ਮੈ ਆਇਆ ਸਰਨੀ ਆਇਆ ॥"
+      },
+      {
+        "id": "T4T",
+        "line": "W7KX",
+        "linetext": "ਰਾਖਿ ਲੇਹੁ ਹਮ ਤੇ ਬਿਗਰੀ ॥"
+      },
+      {
+        "id": "BN1",
+        "line": "CWSW",
+        "linetext": "ਜਿਉ ਜਾਨਹਿ ਤਿਉ ਤਾਰਿ ਸੁਆਮੀ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "JSL",
+        "line": "E1FA",
+        "linetext": "ਜਿਉ ਜਾਨਹੁ ਤਿਉ ਰਾਖੁ ਹਰਿ ਪ੍ਰਭ ਤੇਰਿਆ ॥"
+      },
+      {
+        "id": "PBJ",
+        "line": "6V0U",
+        "linetext": "ਜਿਉ ਭਾਵੈ ਤਿਉ ਮੋਹਿ ਪ੍ਰਤਿਪਾਲ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "thirteen",
+    "bani": "406,438",
+    "advgutka": [
+      {
+        "id": "T6F",
+        "line": "T0LK",
+        "linetext": "ਭਾਗਠੜੇ ਹਰਿ ਸੰਤ ਤੁਮੑਾਰੇ ਜਿਨੑ ਘਰਿ ਧਨੁ ਹਰਿ ਨਾਮਾ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "VWF",
+        "line": "NQQ5",
+        "linetext": "ਮਾਹਾ ਰੁਤੀ ਸਭ ਤੂੰ ਘੜੀ ਮੂਰਤ ਵੀਚਾਰਾ ॥"
+      },
+      {
+        "id": "F8P",
+        "line": "90EC",
+        "linetext": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਅੰਮ੍ਰਿਤੁ ਹੈ ਹਰਿ ਜਪੀਐ ਸਤਿਗੁਰ ਭਾਇ ॥"
+      },
+      {
+        "id": "AN1",
+        "line": "EZHB",
+        "linetext": "ਨਿਗੁਣਿਆ ਨੋ ਆਪੇ ਬਖਸਿ ਲਏ ਭਾਈ ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਲਾਇ ॥"
+      },
+      {
+        "id": "K63",
+        "line": "8S15",
+        "linetext": "ਜੀਅ ਕੀ ਬਿਰਥਾ ਹੋਇ ਸੁ ਗੁਰ ਪਹਿ ਅਰਦਾਸਿ ਕਰਿ ॥"
+      },
+      {
+        "id": "F6Y",
+        "line": "HL2B",
+        "linetext": "ਹਰਿ ਉਤਮੁ ਹਰਿ ਪ੍ਰਭੁ ਗਾਵਿਆ ਕਰਿ ਨਾਦੁ ਬਿਲਾਵਲੁ ਰਾਗੁ ॥"
+      },
+      {
+        "id": "3BN",
+        "line": "1JAW",
+        "linetext": "ਸਰਵਰ ਹੰਸ ਧੁਰੇ ਹੀ ਮੇਲਾ ਖਸਮੈ ਏਵੈ ਭਾਣਾ ॥"
+      },
+      {
+        "id": "FJJ",
+        "line": "L4CK",
+        "linetext": "ਸਭਿ ਰਸ ਤਿਨ ਕੈ ਰਿਦੈ ਹਹਿ ਜਿਨ ਹਰਿ ਵਸਿਆ ਮਨ ਮਾਹਿ ॥"
+      },
+      {
+        "id": "0Z8",
+        "line": "CYR8",
+        "linetext": "ਸਰਬ ਸੁਖਾ ਕਾ ਦਾਤਾ ਸਤਿਗੁਰੁ ਤਾ ਕੀ ਸਰਨੀ ਪਾਈਐ ॥"
+      },
+      {
+        "id": "39Y",
+        "line": "LZXF",
+        "linetext": "ਸਤਿਗੁਰ ਪੁਰਖੁ ਹਰਿ ਧਿਆਇਦਾ ਸਤਸੰਗਤਿ ਸਤਿਗੁਰ ਭਾਇ ॥"
+      },
+      {
+        "id": "BP7",
+        "line": "BY4T",
+        "linetext": "ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਸਫਲ ਹੈ ਜੇ ਕੋ ਕਰੇ ਚਿਤੁ ਲਾਇ ॥"
+      },
+      {
+        "id": "D65",
+        "line": "BSKX",
+        "linetext": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ ਗੁਰਮੁਖਿ ਪਾਇਆ ਜਾਇ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "fourteen",
+    "bani": "439,468",
+    "advgutka": [
+      {
+        "id": "R08",
+        "line": "23W2",
+        "linetext": "ਚੇਤਨਾ ਹੈ ਤਉ ਚੇਤ ਲੈ ਨਿਸਿ ਦਿਨਿ ਮੈ ਪ੍ਰਾਨੀ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "SAB",
+        "line": "YG4Y",
+        "linetext": "ਹਉ ਵਾਰੀ ਵੰਞਾ ਖੰਨੀਐ ਵੰਞਾ ਤਉ ਸਾਹਿਬ ਕੇ ਨਾਵੈ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "8WJ",
+        "line": "GFEW",
+        "linetext": "ਜਿਨੀ ਨਾਮੁ ਵਿਸਾਰਿਆ ਬਹੁ ਕਰਮ ਕਮਾਵਹਿ ਹੋਰਿ ॥"
+      },
+      {
+        "id": "KCZ",
+        "line": "0J96",
+        "linetext": "ਜਿਨੑੀ ਨਾਮੁ ਵਿਸਾਰਿਆ ਕਿਆ ਜਪੁ ਜਾਪਹਿ ਹੋਰਿ ॥"
+      },
+      {
+        "id": "MHQ",
+        "line": "NVS5",
+        "linetext": "ਮੇਰੇ ਮਨ ਨਾਮੁ ਅੰਮ੍ਰਿਤੁ ਪੀਉ ॥"
+      },
+      {
+        "id": "EX1",
+        "line": "NWW4",
+        "linetext": "ਜਿਸੁ ਨਾਮੁ ਰਿਦੈ ਸੋਈ ਵਡ ਰਾਜਾ ॥"
+      },
+      {
+        "id": "DGM",
+        "line": "P4AP",
+        "linetext": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਜਪਹੁ ਮਨ ਮੇਰੇ ਜਿਤੁ ਸਿਮਰਤ ਸਭਿ ਕਿਲਵਿਖ ਪਾਪ ਲਹਾਤੀ ॥"
+      },
+      {
+        "id": "UKW",
+        "line": "ZHV1",
+        "linetext": "ਮੇਰਾ ਬਿਰਹੀ ਨਾਮੁ ਮਿਲੈ ਤਾ ਜੀਵਾ ਜੀਉ ॥"
+      },
+      {
+        "id": "DPP",
+        "line": "XHCZ",
+        "linetext": "ਨਾਮੁ ਮਿਲੈ ਮਨੁ ਤ੍ਰਿਪਤੀਐ ਬਿਨੁ ਨਾਮੈ ਧ੍ਰਿਗੁ ਜੀਵਾਸੁ ॥"
+      },
+      {
+        "id": "XNC",
+        "line": "T0ER",
+        "linetext": "ਗੁਰ ਸੇਵਾ ਤੇ ਨਾਮੇ ਲਾਗਾ ॥"
+      },
+      {
+        "id": "GG3",
+        "line": "K2K2",
+        "linetext": "ਮਾਣਸ ਜਨਮਿ ਹਰਿ ਪਾਈਐ ਹਰਿ ਰਾਵਣ ਵੇਰਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "3N5",
+        "line": "60S9",
+        "linetext": "ਦੇਖੁ ਫੂਲ ਫੂਲ ਫੂਲੇ ॥"
+      },
+      {
+        "id": "K17",
+        "line": "9PS1",
+        "linetext": "ਭਲੋ ਸਮੋ ਸਿਮਰਨ ਕੀ ਬਰੀਆ ॥"
+      },
+      {
+        "id": "WB0",
+        "line": "G27U",
+        "linetext": "ਭਜਹੁ ਗੁੋਬਿੰਦ ਭੂਲਿ ਮਤ ਜਾਹੁ ॥"
+      },
+      {
+        "id": "LTX",
+        "line": "2CYD",
+        "linetext": "ਰੇ ਮਨ ਵਤ੍ਰ ਬੀਜਣ ਨਾਉ ॥"
+      },
+      {
+        "id": "EFQ",
+        "line": "J6HM",
+        "linetext": "ਵਤ ਲਗੀ ਸਚੇ ਨਾਮ ਕੀ ਜੋ ਬੀਜੇ ਸੋ ਖਾਇ ॥"
+      },
+      {
+        "id": "EXT",
+        "line": "7ECE",
+        "linetext": "ਬੋਲਹੁ ਭਈਆ ਰਾਮ ਨਾਮੁ ਪਤਿਤ ਪਾਵਨੋ ॥ ਹਰਿ ਸੰਤ ਭਗਤ ਤਾਰਨੋ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "fifteen",
+    "bani": "469,507",
+    "advgutka": [
+      {
+        "id": "7D0",
+        "line": "JM2H",
+        "linetext": "ਪਿੰਗੁਲ ਪਰਬਤ ਪਾਰਿ ਪਰੇ ਖਲ ਚਤੁਰ ਬਕੀਤਾ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "LKC",
+        "line": "GCZ0",
+        "linetext": "ਜਾ ਤੂੰ ਸਾਹਿਬੁ ਤਾ ਭਉ ਕੇਹਾ ਹਉ ਤੁਧੁ ਬਿਨੁ ਕਿਸੁ ਸਾਲਾਹੀ ॥"
+      },
+      {
+        "id": "FYG",
+        "line": "W7F2",
+        "linetext": "ਤੇਰੈ ਭਰੋਸੈ ਪਿਆਰੇ ਮੈ ਲਾਡ ਲਡਾਇਆ ॥"
+      },
+      {
+        "id": "XHM",
+        "line": "ACFM",
+        "linetext": "ਤੂੰ ਦਾਤਾ ਜੀਆ ਸਭਨਾ ਕਾ ਬਸਹੁ ਮੇਰੇ ਮਨ ਮਾਹੀ ॥"
+      },
+      {
+        "id": "KPE",
+        "line": "3JFV",
+        "linetext": "ਤੂੰ ਜੀਵਨੁ ਤੂੰ ਪ੍ਰਾਨ ਅਧਾਰਾ ॥"
+      },
+      {
+        "id": "JGA",
+        "line": "FDMV",
+        "linetext": "ਤੂੰ ਮੇਰਾ ਸਖਾ ਤੂੰਹੀ ਮੇਰਾ ਮੀਤੁ ॥"
+      },
+      {
+        "id": "6ZU",
+        "line": "M15Z",
+        "linetext": "ਤੁਝ ਬਿਨੁ ਅਵਰੁ ਨਾਹੀ ਮੈ ਦੂਜਾ ਤੂੰ ਮੇਰੇ ਮਨ ਮਾਹੀ ॥"
+      },
+      {
+        "id": "Y7A",
+        "line": "EZLK",
+        "linetext": "ਤੂ ਮੇਰਾ ਤਰੰਗੁ ਹਮ ਮੀਨ ਤੁਮਾਰੇ ॥"
+      },
+      {
+        "id": "HBX",
+        "line": "UJKS",
+        "linetext": "ਮੈ ਨਾਹੀ ਪ੍ਰਭ ਸਭੁ ਕਿਛੁ ਤੇਰਾ ॥"
+      },
+      {
+        "id": "PHY",
+        "line": "3WH5",
+        "linetext": "ਜਲੇ ਹਰੀ ॥"
+      },
+      {
+        "id": "A14",
+        "line": "DLLP",
+        "linetext": "ਏਕੈ ਏਕੈ ਏਕ ਤੂਹੀ ॥"
+      },
+      {
+        "id": "071",
+        "line": "76QE",
+        "linetext": "ਰਚਨਾ ਸਾਚੁ ਬਨੀ ॥"
+      },
+      {
+        "id": "81A",
+        "line": "Q5J5",
+        "linetext": "ਰਸਨਾ ਜਪਤੀ ਤੂਹੀ ਤੂਹੀ ॥"
+      },
+      {
+        "id": "P5S",
+        "line": "47J9",
+        "linetext": "ਕਬੀਰ ਤੂੰ ਤੂੰ ਕਰਤਾ ਤੂ ਹੂਆ ਮੁਝ ਮਹਿ ਰਹਾ ਨ ਹੂੰ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "sixteen",
+    "bani": "508,546",
+    "advgutka": [
+      {
+        "id": "9LZ",
+        "line": "H124",
+        "linetext": "ਨ ਭੀਜੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦਿ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "9LZ",
+        "line": "H124",
+        "linetext": "ਨ ਭੀਜੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦਿ ॥"
+      },
+      {
+        "id": "49A",
+        "line": "B75S",
+        "linetext": "ਹਰਿ ਜਨ ਕਉ ਇਹੀ ਸੁਹਾਵੈ ॥"
+      },
+      {
+        "id": "M8P",
+        "line": "UM6T",
+        "linetext": "ਮੇਰੇ ਮੋਹਨ ਸ੍ਰਵਨੀ ਇਹ ਨ ਸੁਨਾਏ ॥"
+      },
+      {
+        "id": "PVL",
+        "line": "L8DN",
+        "linetext": "ਹਰਿ ਜਨ ਨਾਚਹੁ ਹਰਿ ਹਰਿ ਧਿਆਇ ॥"
+      },
+      {
+        "id": "H80",
+        "line": "KLZ5",
+        "linetext": "ਹਰਿ ਕੀ ਤੁਮ ਸੇਵਾ ਕਰਹੁ ਦੂਜੀ ਸੇਵਾ ਕਰਹੁ ਨ ਕੋਇ ਜੀ ॥"
+      },
+      {
+        "id": "EPC",
+        "line": "D494",
+        "linetext": "ਰੇ ਜਨ ਮਨੁ ਮਾਧਉ ਸਿਉ ਲਾਈਐ ॥"
+      },
+      {
+        "id": "TG7",
+        "line": "CP88",
+        "linetext": "ਭਲੋ ਭਲੋ ਰੇ ਕੀਰਤਨੀਆ ॥"
+      },
+      {
+        "id": "BSL",
+        "line": "4QPG",
+        "linetext": "ਤੇਰਾ ਜਨੁ ਨਿਰਤਿ ਕਰੇ ਗੁਨ ਗਾਵੈ ॥"
+      },
+      {
+        "id": "FPX",
+        "line": "KXC8",
+        "linetext": "ਹਰਿ ਹਰਿ ਕਰਹਿ ਨਿਤ ਕਪਟੁ ਕਮਾਵਹਿ ਹਿਰਦਾ ਸੁਧੁ ਨ ਹੋਈ ॥"
+      },
+      {
+        "id": "JVV",
+        "line": "1E4U",
+        "linetext": "ਪੂਛਤ ਪਥਕਿ ਤਿਹ ਮਾਰਗ ਨ ਧਾਰੈ ਪਗਿ ਪ੍ਰੀਤਮ ਕੈ ਦੇਸ ਕੈਸੇ ਬਾਤਨੁ ਕੇ ਜਾਈਐ ।"
+      },
+      {
+        "id": "3G9",
+        "line": "UUSM",
+        "linetext": "ਹਰਿ ਬਿਨੁ ਅਵਰ ਕ੍ਰਿਆ ਬਿਰਥੇ ॥"
+      },
+      {
+        "id": "HZT",
+        "line": "GFAM",
+        "linetext": "ਪੂਜਾ ਵਰਤ ਤਿਲਕ ਇਸਨਾਨਾ ਪੁੰਨ ਦਾਨ ਬਹੁ ਦੈਨ ॥"
+      },
+      {
+        "id": "CG2",
+        "line": "3G1K",
+        "linetext": "ਕਹਾ ਭਯੋ ਜੋ ਦੋਊ ਲੋਚਨ ਮੂੰਦ ਕੈ ਬੈਠਿ ਰਹਿਓ ਬਕ ਧਿਆਨ ਲਗਾਇਓ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "seventeen",
+    "bani": "547,567",
+    "advgutka": [
+      {
+        "id": "HWG",
+        "line": "K5UL",
+        "linetext": "ਮਨੁ ਰਤਾ ਗੋਵਿੰਦ ਸੰਗਿ ਸਚੁ ਭੋਜਨੁ ਜੋੜੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "XSJ",
+        "line": "UBCM",
+        "linetext": "ਹਰਿ ਪ੍ਰੇਮ ਭਗਤਿ ਜਨ ਬੇਧਿਆ ਸੇ ਆਨ ਕਤ ਜਾਹੀ ॥"
+      },
+      {
+        "id": "WY5",
+        "line": "HMW1",
+        "linetext": "ਚਰਨ ਕਮਲ ਸਿਉ ਪ੍ਰੀਤਿ ਰੀਤਿ ਸੰਤਨ ਮਨਿ ਆਵਏ ਜੀਉ ॥"
+      },
+      {
+        "id": "Q19",
+        "line": "GBET",
+        "linetext": "ਨਦੀ ਤਰੰਦੜੀ ਮੈਡਾ ਖੋਜੁ ਨ ਖੁੰਭੈ ਮੰਝਿ ਮੁਹਬਤਿ ਤੇਰੀ ॥"
+      },
+      {
+        "id": "HXD",
+        "line": "3K7J",
+        "linetext": "ਹਉ ਰਹਿ ਨ ਸਕਾ ਬਿਨੁ ਦੇਖੇ ਪ੍ਰੀਤਮਾ ਮੈ ਨੀਰੁ ਵਹੇ ਵਹਿ ਚਲੈ ਜੀਉ ॥੩॥"
+      },
+      {
+        "id": "0BJ",
+        "line": "TAWL",
+        "linetext": "ਮਾਈ ਮੇਰੇ ਮਨ ਕੀ ਪ੍ਰੀਤਿ ॥"
+      },
+      {
+        "id": "XX8",
+        "line": "KKMB",
+        "linetext": "ਕਿਉ ਜੀਵਨੁ ਪ੍ਰੀਤਮ ਬਿਨੁ ਮਾਈ ॥"
+      },
+      {
+        "id": "KYW",
+        "line": "W6F1",
+        "linetext": "ਅੰਤਰਿ ਪਿਰੀ ਪਿਆਰੁ ਕਿਉ ਪਿਰ ਬਿਨੁ ਜੀਵੀਐ ਰਾਮ ॥"
+      },
+      {
+        "id": "R5B",
+        "line": "T35Q",
+        "linetext": "ਹਰਿ ਬਿਨੁ ਰਹਿ ਨ ਸਕਉ ਇਕ ਰਾਤੀ ॥"
+      },
+      {
+        "id": "21C",
+        "line": "FVX0",
+        "linetext": "ਕੋਊ ਹੈ ਮੇਰੋ ਸਾਜਨੁ ਮੀਤੁ ॥"
+      },
+      {
+        "id": "TUW",
+        "line": "0FHJ",
+        "linetext": "ਮਾਈ ਰੀ ਪੇਖਿ ਰਹੀ ਬਿਸਮਾਦ ॥"
+      },
+      {
+        "id": "YVR",
+        "line": "J21W",
+        "linetext": "ਚਾਤ੍ਰਿਕ ਮੀਨ ਜਲ ਹੀ ਤੇ ਸੁਖੁ ਪਾਵਹਿ ਸਾਰਿੰਗ ਸਬਦਿ ਸੁਹਾਈ ॥੧॥"
+      },
+      {
+        "id": "0N6",
+        "line": "VGKB",
+        "linetext": "ਹਰਿ ਦਰਸਨੁ ਦੇਹੁ ਹਰਿ ਆਸ ਤੁਮਾਰੀ ॥"
+      },
+      {
+        "id": "7PA",
+        "line": "9DAU",
+        "linetext": "ਹਰਿ ਬਿਨੁ ਕਿਉ ਜੀਵਾ ਮੇਰੀ ਮਾਈ ॥"
+      },
+      {
+        "id": "XQY",
+        "line": "6DKE",
+        "linetext": "ਹਰਿ ਸਿਉ ਪ੍ਰੀਤਿ ਅੰਤਰੁ ਮਨੁ ਬੇਧਿਆ ਹਰਿ ਬਿਨੁ ਰਹਣੁ ਨ ਜਾਈ ॥"
+      },
+      {
+        "id": "69W",
+        "line": "G731",
+        "linetext": "ਮੇਰੀ ਸਖੀ ਸਹੇਲੜੀਹੋ ਪ੍ਰਭ ਕੈ ਚਰਣਿ ਲਗਹ ॥"
+      },
+      {
+        "id": "AJJ",
+        "line": "3M39",
+        "linetext": "ਬਿਨੁ ਦਰਸਨ ਕੈਸੇ ਜੀਵਉ ਮੇਰੀ ਮਾਈ ॥"
+      },
+      {
+        "id": "64L",
+        "line": "38AT",
+        "linetext": "ਨੈਨੀ ਹਰਿ ਹਰਿ ਲਾਗੀ ਤਾਰੀ ॥"
+      },
+      {
+        "id": "VSM",
+        "line": "N0HE",
+        "linetext": "ਪ੍ਰਭ ਮੇਰੇ ਓਇ ਬੈਰਾਗੀ ਤਿਆਗੀ ॥"
+      },
+      {
+        "id": "MQ3",
+        "line": "NTUJ",
+        "linetext": "ਦਰਸ ਤੇਰੇ ਕੀ ਪਿਆਸ ਮਨਿ ਲਾਗੀ ॥"
+      },
+      {
+        "id": "49A",
+        "line": "B75S",
+        "linetext": "ਹਰਿ ਜਨ ਕਉ ਇਹੀ ਸੁਹਾਵੈ ॥"
+      },
+      {
+        "id": "TJM",
+        "line": "WRSA",
+        "linetext": "ਓਹਾ ਪ੍ਰੇਮ ਪਿਰੀ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "EQ4",
+        "line": "H6R2",
+        "linetext": "ਸਾਚੀ ਪ੍ਰੀਤਿ ਨ ਤੁਟਈ ਪਿਆਰੇ ਜੁਗੁ ਜੁਗੁ ਰਹੀ ਸਮਾਇ ॥੬॥"
+      },
+      {
+        "id": "QTL",
+        "line": "YS8Y",
+        "linetext": "ਫਰੀਦਾ ਗਲੀਏ ਚਿਕੜੁ ਦੂਰਿ ਘਰੁ ਨਾਲਿ ਪਿਆਰੇ ਨੇਹੁ ॥"
+      },
+      {
+        "id": "Z86",
+        "line": "D35V",
+        "linetext": "ਕੈਸੇ ਕਹਉ ਮੋਹਿ ਜੀਅ ਬੇਦਨਾਈ ॥"
+      },
+      {
+        "id": "Q31",
+        "line": "DVCJ",
+        "linetext": "ਮੇਰੀ ਪ੍ਰੀਤਿ ਗੋਬਿੰਦ ਸਿਉ ਜਿਨਿ ਘਟੈ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "eighteen",
+    "bani": "568,594",
+    "advgutka": [
+      {
+        "id": "5RG",
+        "line": "FJ58",
+        "linetext": "ਅਬਿਚਲ ਨਗਰੁ ਗੋਬਿੰਦ ਗੁਰੂ ਕਾ ਨਾਮੁ ਜਪਤ ਸੁਖੁ ਪਾਇਆ ਰਾਮ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "57M",
+        "line": "7SDH",
+        "linetext": "ਸੋਈ ਸੁਹਾਵਾ ਥਾਨੁ ਜਿਥੈ ਪਿਰੀਏ ਨਾਨਕ ਜੀ ਤੂ ਵੁਠਿਆ ॥੩॥"
+      },
+      {
+        "id": "AF7",
+        "line": "NSDX",
+        "linetext": "ਜਹ ਗੋਬਿੰਦ ਭਗਤੁ ਸੋ ਧੰਨਿ ਦੇਸੁ ॥"
+      },
+      {
+        "id": "AF7",
+        "line": "1V5H",
+        "linetext": "ਰਾਮ ਰੰਗਿ ਸਭ ਗਏ ਪਾਪ ॥"
+      },
+      {
+        "id": "156",
+        "line": "HKLS",
+        "linetext": "ਹਰਿ ਜਪੇ ਹਰਿ ਮੰਦਰੁ ਸਾਜਿਆ ਸੰਤ ਭਗਤ ਗੁਣ ਗਾਵਹਿ ਰਾਮ ॥"
+      },
+      {
+        "id": "5RG",
+        "line": "ELJ7",
+        "linetext": "ਘਰ ਮੰਦਰ ਹਟਨਾਲੇ ਸੋਹੇ ਜਿਸੁ ਵਿਚਿ ਨਾਮੁ ਨਿਵਾਸੀ ਰਾਮ ॥"
+      },
+      {
+        "id": "EZ7",
+        "line": "L5WG",
+        "linetext": "ਜਿਥੈ ਨਾਮੁ ਜਪੀਐ ਪ੍ਰਭ ਪਿਆਰੇ ॥"
+      },
+      {
+        "id": "1KF",
+        "line": "YQ6G",
+        "linetext": "ਭਲੀ ਸੁਹਾਵੀ ਛਾਪਰੀ ਜਾ ਮਹਿ ਗੁਨ ਗਾਏ ॥"
+      },
+      {
+        "id": "FP7",
+        "line": "WX1N",
+        "linetext": "ਭਵਨੁ ਸੁਹਾਵੜਾ ਧਰਤਿ ਸਭਾਗੀ ਰਾਮ ॥"
+      },
+      {
+        "id": "L1B",
+        "line": "Z63X",
+        "linetext": "ਧਨਿ ਧੰਨਿ ਹਮਾਰੇ ਭਾਗ ਘਰਿ ਆਇਆ ਪਿਰੁ ਮੇਰਾ ॥"
+      },
+      {
+        "id": "476",
+        "line": "76EU",
+        "linetext": "ਬੈਕੁੰਠ ਨਗਰੁ ਜਹਾ ਸੰਤ ਵਾਸਾ ॥"
+      },
+      {
+        "id": "SL2",
+        "line": "E2FJ",
+        "linetext": "ਜਿਥੈ ਬੈਸਨਿ ਸਾਧ ਜਨ ਸੋ ਥਾਨੁ ਸੁਹੰਦਾ ॥"
+      },
+      {
+        "id": "4L7",
+        "line": "DM5S",
+        "linetext": "ਧੰਨੁ ਇਹੁ ਥਾਨੁ ਗੋਵਿੰਦ ਗੁਣ ਗਾਏ ॥"
+      },
+      {
+        "id": "0BP",
+        "line": "P218",
+        "linetext": "ਸਾ ਧਰਤੀ ਭਈ ਹਰੀਆਵਲੀ ਜਿਥੈ ਮੇਰਾ ਸਤਿਗੁਰੁ ਬੈਠਾ ਆਇ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "nineteen",
+    "bani": "595,623",
+    "advgutka": [
+      {
+        "id": "8WL",
+        "line": "BQFK",
+        "linetext": "ਝਖੜੁ ਝਾਗੀ ਮੀਹੁ ਵਰਸੈ ਭੀ ਗੁਰੁ ਦੇਖਣ ਜਾਈ ॥੧੩॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "F6S",
+        "line": "6CDB",
+        "linetext": "ਪਾਨੀਆ ਬਿਨੁ ਮੀਨੁ ਤਲਫੈ ॥"
+      },
+      {
+        "id": "D55",
+        "line": "AEPG",
+        "linetext": "ਸੇਵਕ ਕੀ ਓੜਕਿ ਨਿਬਹੀ ਪ੍ਰੀਤਿ ॥"
+      },
+      {
+        "id": "0N6",
+        "line": "VGKB",
+        "linetext": "ਹਰਿ ਦਰਸਨੁ ਦੇਹੁ ਹਰਿ ਆਸ ਤੁਮਾਰੀ ॥"
+      },
+      {
+        "id": "W2T",
+        "line": "AGRQ",
+        "linetext": "ਮਨ ਰੇ ਕਿਉ ਛੂਟਹਿ ਬਿਨੁ ਪਿਆਰ ॥"
+      },
+      {
+        "id": "W2T",
+        "line": "GEMG",
+        "linetext": "ਰੇ ਮਨ ਐਸੀ ਹਰਿ ਸਿਉ ਪ੍ਰੀਤਿ ਕਰਿ ਜੈਸੀ ਜਲ ਕਮਲੇਹਿ ॥"
+      },
+      {
+        "id": "WFN",
+        "line": "8PGV",
+        "linetext": "ਮੈ ਮਨਿ ਤਨਿ ਪ੍ਰੇਮੁ ਪਿਰੰਮ ਕਾ ਅਠੇ ਪਹਰ ਲਗੰਨਿ ॥"
+      },
+      {
+        "id": "Z88",
+        "line": "D9P8",
+        "linetext": "ਜਿਉ ਮਛੁਲੀ ਬਿਨੁ ਪਾਣੀਐ ਕਿਉ ਜੀਵਣੁ ਪਾਵੈ ॥"
+      },
+      {
+        "id": "NTC",
+        "line": "9U7R",
+        "linetext": "ਸੁਨਹੁ ਲੋਕਾ ਮੈ ਪ੍ਰੇਮ ਰਸੁ ਪਾਇਆ ॥"
+      },
+      {
+        "id": "HWG",
+        "line": "K5UL",
+        "linetext": "ਮਨੁ ਰਤਾ ਗੋਵਿੰਦ ਸੰਗਿ ਸਚੁ ਭੋਜਨੁ ਜੋੜੇ ॥"
+      },
+      {
+        "id": "T0J",
+        "line": "1XPH",
+        "linetext": "ਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਭਇਆ ਮਨਿ ਬਹੁਤੁ ਪਿਆਸ ਲਾਗੀ ॥"
+      },
+      {
+        "id": "KB8",
+        "line": "8QXD",
+        "linetext": "ਗੁਰ ਅਰਜਨ ਵਿਟਹੁ ਕੁਰਬਾਣੀ ।੨੩।"
+      },
+      {
+        "id": "KB8",
+        "line": "2J0J",
+        "linetext": "ਰਹਿਦੇ ਗੁਰੁ ਦਰੀਆਉ ਵਿਚਿ ਮੀਨ ਕੁਲੀਨ ਹੇਤੁ ਨਿਰਬਾਣੀ ।"
+      },
+      {
+        "id": "9K9",
+        "line": "NE3L",
+        "linetext": "ਤੇ ਹਰਿ ਜਨ ਹਰਿ ਮੇਲਹੁ ਹਮ ਪਿਆਰੇ ॥"
+      },
+      {
+        "id": "FKL",
+        "line": "9TCQ",
+        "linetext": "ਸੁਣਿ ਸਾਜਨ ਪ੍ਰੇਮ ਸੰਦੇਸਰਾ ਅਖੀ ਤਾਰ ਲਗੰਨਿ ॥"
+      },
+      {
+        "id": "8EL",
+        "line": "T8CE",
+        "linetext": "ਐਸੀ ਪ੍ਰੀਤਿ ਗੋਵਿੰਦ ਸਿਉ ਲਾਗੀ ॥"
+      },
+      {
+        "id": "ZPF",
+        "line": "HX7Q",
+        "linetext": "ਮੇਰਾ ਹਰਿ ਪ੍ਰਭੁ ਸੁੰਦਰੁ ਮੈ ਸਾਰ ਨ ਜਾਣੀ ॥"
+      },
+      {
+        "id": "1DV",
+        "line": "14QW",
+        "linetext": "ਮੈ ਮਨਿ ਵਡੀ ਆਸ ਹਰੇ ਕਿਉ ਕਰਿ ਹਰਿ ਦਰਸਨੁ ਪਾਵਾ ॥"
+      },
+      {
+        "id": "8J4",
+        "line": "K85W",
+        "linetext": "ਜਿਨ ਅੰਦਰਿ ਪ੍ਰੀਤਿ ਪਿਰੰਮ ਕੀ ਜਿਉ ਬੋਲਨਿ ਤਿਵੈ ਸੋਹੰਨਿ ॥"
+      },
+      {
+        "id": "455",
+        "line": "P3B7",
+        "linetext": "ਦਯ ਗੁਸਾਈ ਮੀਤੁਲਾ ਤੂੰ ਸੰਗਿ ਹਮਾਰੈ ਬਾਸੁ ਜੀਉ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "ZAS",
+        "line": "5BMX",
+        "linetext": "ਮੈਡਾ ਮਨੁ ਰਤਾ ਆਪਨੜੇ ਪਿਰ ਨਾਲਿ ॥"
+      },
+      {
+        "id": "XDJ",
+        "line": "JWEV",
+        "linetext": "ਚਾਤ੍ਰਿਕ ਚਿਤਵਤ ਬਰਸਤ ਮੇਂਹ ॥"
+      },
+      {
+        "id": "39Y",
+        "line": "W3UT",
+        "linetext": "ਮੂੰ ਪਿਰੀਆ ਸਉ ਨੇਹੁ ਕਿਉ ਸਜਣ ਮਿਲਹਿ ਪਿਆਰਿਆ ॥"
+      },
+      {
+        "id": "HNK",
+        "line": "5G4R",
+        "linetext": "ਜਾ ਕਉ ਭਏ ਕ੍ਰਿਪਾਲ ਪ੍ਰਭ ਹਰਿ ਹਰਿ ਸੇਈ ਜਪਾਤ ॥"
+      },
+      {
+        "id": "L4D",
+        "line": "1ZCC",
+        "linetext": "ਪਿਰ ਭਾਵੈ ਪ੍ਰੇਮੁ ਸਖਾਈ ॥"
+      },
+      {
+        "id": "HLD",
+        "line": "FFRJ",
+        "linetext": "ਗੁਰਸਿਖਾਂ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ ਗੁਰੁ ਪੂਜਣ ਆਵਹਿ ॥"
+      },
+      {
+        "id": "E89",
+        "line": "FX8V",
+        "linetext": "ਸਤਿਗੁਰ ਮੂਰਤਿ ਕਉ ਬਲਿ ਜਾਉ ॥"
+      },
+      {
+        "id": "ZTL",
+        "line": "2WJM",
+        "linetext": "ਆਸ ਪਿਆਸੀ ਚਿਤਵਉ ਦਿਨੁ ਰੈਨੀ ਹੈ ਕੋਈ ਸੰਤੁ ਮਿਲਾਵੈ ਨੇਰਾ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "3T4",
+        "line": "RSWB",
+        "linetext": "ਹਰਿ ਦਰਸਨ ਕੀ ਮਨਿ ਪਿਆਸ ਘਨੇਰੀ ॥"
+      },
+      {
+        "id": "5MR",
+        "line": "KEY3",
+        "linetext": "ਪ੍ਰਭ ਮਿਲਬੇ ਕੀ ਚਾਹ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "ZT3",
+        "line": "MJNJ",
+        "linetext": "ਮਾਈ ਮੇਰੇ ਮਨ ਕੀ ਪਿਆਸ ॥"
+      },
+      {
+        "id": "YVR",
+        "line": "16QW",
+        "linetext": "ਰੈਨਿ ਬਬੀਹਾ ਬੋਲਿਓ ਮੇਰੀ ਮਾਈ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "EE2",
+        "line": "0KEQ",
+        "linetext": "ਹਰਿ ਕੇ ਨਾਮ ਕੇ ਜਨ ਕਾਂਖੀ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twenty",
+    "bani": "624,648",
+    "advgutka": [
+      {
+        "id": "SQP",
+        "line": "XW35",
+        "linetext": "ਪ੍ਰਭ ਮਿਲਬੇ ਕਉ ਪ੍ਰੀਤਿ ਮਨਿ ਲਾਗੀ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "65W",
+        "line": "0HMR",
+        "linetext": "ਅਨਦੋ ਅਨਦੁ ਘਣਾ ਮੈ ਸੋ ਪ੍ਰਭੁ ਡੀਠਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "N5R",
+        "line": "836D",
+        "linetext": "ਆਜੁ ਹਮਾਰੈ ਗ੍ਰਿਹਿ ਬਸੰਤ ॥"
+      },
+      {
+        "id": "553",
+        "line": "X737",
+        "linetext": "ਬਹੋਸ਼ ਬਾਸ਼ ਕਿ ਹੰਗਾਮਿ ਨੌਬਹਾਰ ਆਮਦ ।"
+      },
+      {
+        "id": "31R",
+        "line": "4C42",
+        "linetext": "ਹਮ ਘਰਿ ਸਾਚਾ ਸੋਹਿਲੜਾ ਪ੍ਰਭ ਆਇਅੜੇ ਮੀਤਾ ਰਾਮ ॥"
+      },
+      {
+        "id": "9DA",
+        "line": "CT7P",
+        "linetext": "ਤੁਮ ਰਵਹੁ ਗੋਬਿੰਦੈ ਰਵਣ ਜੋਗੁ ॥"
+      },
+      {
+        "id": "9DA",
+        "line": "3MFA",
+        "linetext": "ਸਗਲ ਇਛਾ ਜਪਿ ਪੁੰਨੀਆ ॥"
+      },
+      {
+        "id": "HT3",
+        "line": "S24C",
+        "linetext": "ਆਨਦ ਰੰਗ ਬਿਨੋਦ ਹਮਾਰੈ ॥"
+      },
+      {
+        "id": "JNV",
+        "line": "MCCU",
+        "linetext": "ਤ੍ਰਿਸਨਾ ਬੁਝੈ ਹਰਿ ਕੈ ਨਾਮਿ ॥"
+      },
+      {
+        "id": "8VS",
+        "line": "940E",
+        "linetext": "ਮੇਰੀ ਇਛ ਪੁਨੀ ਜੀਉ ਹਮ ਘਰਿ ਸਾਜਨੁ ਆਇਆ ॥"
+      },
+      {
+        "id": "VGA",
+        "line": "9UFB",
+        "linetext": "ਮਨਿ ਅਨਦੁ ਭਇਆ ਪ੍ਰਭੁ ਆਵਤ ਸੁਣਿਆ ॥"
+      },
+      {
+        "id": "NP2",
+        "line": "59QC",
+        "linetext": "ਅਨਦੁ ਭਇਆ ਵਡਭਾਗੀਹੋ ਗ੍ਰਿਹਿ ਪ੍ਰਗਟੇ ਪ੍ਰਭ ਆਇ ਜੀਉ ॥"
+      },
+      {
+        "id": "JF8",
+        "line": "7Q9X",
+        "linetext": "ਨਸਿ ਵੰਞਹੁ ਕਿਲਵਿਖਹੁ ਕਰਤਾ ਘਰਿ ਆਇਆ ॥"
+      },
+      {
+        "id": "MMX",
+        "line": "6ZUH",
+        "linetext": "ਗਾਇਓ ਰੀ ਮੈ ਗੁਣ ਨਿਧਿ ਮੰਗਲ ਗਾਇਓ ॥"
+      },
+      {
+        "id": "W2D",
+        "line": "LBD9",
+        "linetext": "ਯਾਰ ਵੇ ਨਿਤ ਸੁਖ ਸੁਖੇਦੀ ਸਾ ਮੈ ਪਾਈ ॥"
+      },
+      {
+        "id": "RZX",
+        "line": "6DW7",
+        "linetext": "ਮੇਰੈ ਮਨਿ ਅਨਦੁ ਭਇਆ ਜੀਉ ਵਜੀ ਵਾਧਾਈ ॥"
+      },
+      {
+        "id": "T0J",
+        "line": "1XPH",
+        "linetext": "ਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਚਿਰੁ ਭਇਆ ਮਨਿ ਬਹੁਤੁ ਪਿਆਸ ਲਾਗੀ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twentyone",
+    "bani": "649,667",
+    "advgutka": [
+      {
+        "id": "1SS",
+        "line": "JB1F",
+        "linetext": "ਕੋਟਿ ਬ੍ਰਹਮੰਡ ਕੋ ਠਾਕੁਰੁ ਸੁਆਮੀ ਸਰਬ ਜੀਆ ਕਾ ਦਾਤਾ ਰੇ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "R2W",
+        "line": "9924",
+        "linetext": "ਜਬ ਤੇ ਦਰਸਨ ਭੇਟੇ ਸਾਧੂ ਭਲੇ ਦਿਨਸ ਓਇ ਆਏ ॥"
+      },
+      {
+        "id": "WWS",
+        "line": "A6TP",
+        "linetext": "ਸੰਤ ਜਨਾ ਮਿਲਿ ਹਰਿ ਜਸੁ ਗਾਇਓ ॥"
+      },
+      {
+        "id": "FW2",
+        "line": "UA2Q",
+        "linetext": "ਚਰਨਹ ਗੋਬਿੰਦ ਮਾਰਗੁ ਸੁਹਾਵਾ ॥"
+      },
+      {
+        "id": "AR8",
+        "line": "X0D2",
+        "linetext": "ਰਾਮ ਨਾਮੁ ਰਤਨ ਕੋਠੜੀ ਗੜ ਮੰਦਰਿ ਏਕ ਲੁਕਾਨੀ ॥"
+      },
+      {
+        "id": "NJT",
+        "line": "TU26",
+        "linetext": "ਸੰਤਨ ਪਹਿ ਆਪਿ ਉਧਾਰਨ ਆਇਓ ॥੧॥ ਰਹਾਉ ॥"
+      },
+      {
+        "id": "Y9Y",
+        "line": "URQX",
+        "linetext": "ਸੇ ਗੁਰਸਿਖ ਧਨੁ ਧੰਨੁ ਹੈ ਜਿਨੀ ਗੁਰ ਉਪਦੇਸੁ ਸੁਣਿਆ ਹਰਿ ਕੰਨੀ ॥"
+      },
+      {
+        "id": "5B3",
+        "line": "EU5D",
+        "linetext": "ਜਿਸੁ ਭੇਟੇ ਪੂਰਾ ਸਤਿਗੁਰੂ ਮੇਰੀ ਜਿੰਦੁੜੀਏ ਸੋ ਹਰਿ ਧਨੁ ਨਿਧਿ ਪਾਏ ਰਾਮ ॥"
+      },
+      {
+        "id": "TD3",
+        "line": "B15G",
+        "linetext": "ਪ੍ਰਭ ਕੀ ਸਰਣਿ ਸਗਲ ਭੈ ਲਾਥੇ ਦੁਖ ਬਿਨਸੇ ਸੁਖੁ ਪਾਇਆ ॥"
+      },
+      {
+        "id": "JBT",
+        "line": "9DLS",
+        "linetext": "ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਝੂਠ ਨਿੰਦਾ ਇਨ ਤੇ ਆਪਿ ਛਡਾਵਹੁ ॥"
+      },
+      {
+        "id": "1RZ",
+        "line": "T3P5",
+        "linetext": "ਮਹਾ ਅਗਨਿ ਤੇ ਤੁਧੁ ਹਾਥ ਦੇ ਰਾਖੇ ਪਏ ਤੇਰੀ ਸਰਣਾਈ ॥"
+      },
+      {
+        "id": "H1X",
+        "line": "82A3",
+        "linetext": "ਮਨ ਮਿਲੁ ਸੰਤਸੰਗਤਿ ਸੁਭਵੰਤੀ ॥"
+      },
+      {
+        "id": "A4T",
+        "line": "3VQ4",
+        "linetext": "ਮਾਈ ਮੇਰੇ ਮਨ ਕੋ ਸੁਖੁ ॥"
+      },
+      {
+        "id": "854",
+        "line": "UXTY",
+        "linetext": "ਜਿਨਿ ਜਗਜੀਵਨੁ ਉਪਦੇਸਿਆ ਤਿਸੁ ਗੁਰ ਕਉ ਹਉ ਸਦਾ ਘੁਮਾਇਆ ॥"
+      },
+      {
+        "id": "U3G",
+        "line": "718U",
+        "linetext": "ਭਲੇ ਦਿਨਸ ਭਲੇ ਸੰਜੋਗ ॥"
+      },
+      {
+        "id": "F6Q",
+        "line": "GM4Y",
+        "linetext": "ਗੁਰੁ ਪੂਰਾ ਭੇਟਿਓ ਵਡਭਾਗੀ ਮਨਹਿ ਭਇਆ ਪਰਗਾਸਾ ॥"
+      },
+      {
+        "id": "983",
+        "line": "HBMR",
+        "linetext": "ਗੁਰੁ ਪੂਰਾ ਭੇਟੈ ਵਡਭਾਗੀ ਆਠ ਪਹਰ ਪ੍ਰਭੁ ਜਾਪੈ ॥"
+      },
+      {
+        "id": "AWY",
+        "line": "31HV",
+        "linetext": "ਨਾਨਕ ਸਤਿਗੁਰਿ ਭੇਟਿਐ ਪੂਰੀ ਹੋਵੈ ਜੁਗਤਿ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twentytwo",
+    "bani": "668,698",
+    "advgutka": [
+      {
+        "id": "D8W",
+        "line": "T7V2",
+        "linetext": "ਅਪੁਨੇ ਸੇਵਕ ਕੀ ਆਪੇ ਰਾਖੈ ਆਪੇ ਨਾਮੁ ਜਪਾਵੈ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "BB0",
+        "line": "5K2X",
+        "linetext": "ਕੋਟਿ ਬਿਘਨ ਨਹੀ ਆਵਹਿ ਨੇਰਿ ॥"
+      },
+      {
+        "id": "1U3",
+        "line": "J69J",
+        "linetext": "ਬਿਘਨੁ ਨ ਕੋਊ ਲਾਗਤਾ ਗੁਰ ਪਹਿ ਅਰਦਾਸਿ ॥"
+      },
+      {
+        "id": "AN1",
+        "line": "EZHB",
+        "linetext": "ਨਿਗੁਣਿਆ ਨੋ ਆਪੇ ਬਖਸਿ ਲਏ ਭਾਈ ਸਤਿਗੁਰ ਕੀ ਸੇਵਾ ਲਾਇ ॥"
+      },
+      {
+        "id": "7RC",
+        "line": "SZ9F",
+        "linetext": "ਮਿਲਿ ਰਹੀਐ ਪ੍ਰਭ ਸਾਧ ਜਨਾ ਮਿਲਿ ਹਰਿ ਕੀਰਤਨੁ ਸੁਨੀਐ ਰਾਮ ॥"
+      },
+      {
+        "id": "HQ9",
+        "line": "CAUU",
+        "linetext": "ਰਾਮੁ ਜਪਤ ਕਛੁ ਬਿਘਨੁ ਨ ਵਿਆਪੈ ॥"
+      },
+      {
+        "id": "HQ9",
+        "line": "N13S",
+        "linetext": "ਸੰਤਨ ਕੈ ਬਲਿਹਾਰੈ ਜਾਉ ॥"
+      },
+      {
+        "id": "7ZU",
+        "line": "UWBJ",
+        "linetext": "ਨਾਮੁ ਲੈਤ ਕਿਛੁ ਬਿਘਨੁ ਨ ਲਾਗੈ ॥"
+      },
+      {
+        "id": "EMS",
+        "line": "X0UZ",
+        "linetext": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਪਰਮੇਸਰੁ ਤੇਰਾ ਜੋ ਸਿਮਰੈ ਸੋ ਜੀਵੈ ॥"
+      },
+      {
+        "id": "RFW",
+        "line": "LAUC",
+        "linetext": "ਤੀਨੇ ਤਾਪ ਨਿਵਾਰਣਹਾਰਾ ਦੁਖ ਹੰਤਾ ਸੁਖ ਰਾਸਿ ॥"
+      },
+      {
+        "id": "7BG",
+        "line": "NVSU",
+        "linetext": "ਕੋਟਿ ਬਿਘਨ ਤਿਸੁ ਲਾਗਤੇ ਜਿਸ ਨੋ ਵਿਸਰੈ ਨਾਉ ॥"
+      },
+      {
+        "id": "JVF",
+        "line": "GVPR",
+        "linetext": "ਕਿਲਵਿਖ ਸਭੇ ਉਤਰਨਿ ਨੀਤ ਨੀਤ ਗੁਣ ਗਾਉ ॥"
+      },
+      {
+        "id": "5V8",
+        "line": "NCR5",
+        "linetext": "ਹਰਿ ਜਨ ਸਿਮਰਹੁ ਹਿਰਦੈ ਰਾਮ ॥"
+      },
+      {
+        "id": "4Y2",
+        "line": "2J37",
+        "linetext": "ਰਾਮੁ ਰਮਹੁ ਬਡਭਾਗੀਹੋ ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਸੋਇ ॥"
+      },
+      {
+        "id": "TDJ",
+        "line": "UNVN",
+        "linetext": "ਜਪੀਐ ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਬਿਘਨੁ ਨ ਲਗੈ ਕੋਇ ॥"
+      },
+      {
+        "id": "E75",
+        "line": "PH9D",
+        "linetext": "ਨਾਨਕ ਬਿਘਨੁ ਨ ਲਾਗੈ ਕੋਇ ॥੧॥"
+      },
+      {
+        "id": "EMF",
+        "line": "GTKH",
+        "linetext": "ਤਾ ਕਉ ਬਿਘਨੁ ਨ ਲਾਗੈ ਕੋਇ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twentythree",
+    "bani": "699,714",
+    "advgutka": [
+      {
+        "id": "65D",
+        "line": "QQL2",
+        "linetext": "ਨਿੰਦਾ ਜਨ ਕਉ ਖਰੀ ਪਿਆਰੀ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "83U",
+        "line": "5WDF",
+        "linetext": "ਅਰੜਾਵੈ ਬਿਲਲਾਵੈ ਨਿੰਦਕੁ ॥"
+      },
+      {
+        "id": "GR1",
+        "line": "94CD",
+        "linetext": "ਮੇਰਾ ਲਾਗੋ ਰਾਮ ਸਿਉ ਹੇਤੁ ॥"
+      },
+      {
+        "id": "GR1",
+        "line": "6PA0",
+        "linetext": "ਸਾਚਾ ਸਾਹਿਬੁ ਹੋਆ ਰਖਵਾਲਾ ਰਾਖਿ ਲੀਏ ਕੰਠਿ ਲਾਇ ॥"
+      },
+      {
+        "id": "GBU",
+        "line": "G2V9",
+        "linetext": "ਜਿਸੁ ਤੂ ਰਾਖਹਿ ਤਿਸੁ ਕਉਨੁ ਮਾਰੈ ॥"
+      },
+      {
+        "id": "AB8",
+        "line": "V8KK",
+        "linetext": "ਪ੍ਰਭ ਕੋ ਭਗਤਿ ਵਛਲੁ ਬਿਰਦਾਇਓ ॥"
+      },
+      {
+        "id": "DH9",
+        "line": "UQ4G",
+        "linetext": "ਜਨ ਕੀ ਪੈਜ ਰਖੀ ਕਰਤਾਰੇ ॥੧॥"
+      },
+      {
+        "id": "QMC",
+        "line": "LTR0",
+        "linetext": "ਜਾ ਕਾ ਮੀਤੁ ਸਾਜਨੁ ਹੈ ਸਮੀਆ ॥"
+      },
+      {
+        "id": "RAE",
+        "line": "JR32",
+        "linetext": "ਜਾ ਕਉ ਰਾਖੈ ਰਾਖਣਹਾਰੁ ॥"
+      },
+      {
+        "id": "UBH",
+        "line": "H0TY",
+        "linetext": "ਸੰਤਾ ਕੇ ਕਾਰਜਿ ਆਪਿ ਖਲੋਇਆ ਹਰਿ ਕੰਮੁ ਕਰਾਵਣਿ ਆਇਆ ਰਾਮ ॥"
+      },
+      {
+        "id": "1ZH",
+        "line": "2SJL",
+        "linetext": "ਗੁਰਿ ਪੂਰੈ ਮੇਰੀ ਰਾਖਿ ਲਈ ॥"
+      },
+      {
+        "id": "G2W",
+        "line": "UWX6",
+        "linetext": "ਘਰਿ ਬਾਹਰਿ ਤੇਰਾ ਭਰਵਾਸਾ ਤੂ ਜਨ ਕੈ ਹੈ ਸੰਗਿ ॥"
+      },
+      {
+        "id": "CEE",
+        "line": "79BD",
+        "linetext": "ਚਤ੍ਰ ਚਕ੍ਰ ਵਰਤੀ ਚਤ੍ਰ ਚਕ੍ਰ ਭੁਗਤੇ ॥"
+      },
+      {
+        "id": "2S3",
+        "line": "78JJ",
+        "linetext": "ਪ੍ਰਭ ਪਾਸਿ ਜਨ ਕੀ ਅਰਦਾਸਿ ਤੂ ਸਚਾ ਸਾਂਈ ॥"
+      },
+      {
+        "id": "MMQ",
+        "line": "PPA6",
+        "linetext": "ਮੇਰੇ ਰਾਮ ਰਾਇ ਤੂੰ ਸੰਤਾ ਕਾ ਸੰਤ ਤੇਰੇ ॥"
+      },
+      {
+        "id": "MMQ",
+        "line": "T5TT",
+        "linetext": "ਜਿਸ ਕੇ ਸਿਰ ਊਪਰਿ ਤੂੰ ਸੁਆਮੀ ਸੋ ਦੁਖੁ ਕੈਸਾ ਪਾਵੈ ॥"
+      },
+      {
+        "id": "F09",
+        "line": "4U7B",
+        "linetext": "ਹਰਿ ਜਨ ਰਾਖੇ ਗੁਰ ਗੋਵਿੰਦ ॥"
+      },
+      {
+        "id": "8Z4",
+        "line": "VWT1",
+        "linetext": "ਜਿਸ ਨੋ ਤੂ ਰਖਵਾਲਾ ਮਾਰੇ ਤਿਸੁ ਕਉਣੁ ॥"
+      },
+      {
+        "id": "M0R",
+        "line": "S8M3",
+        "linetext": "ਜਿਸ ਦਾ ਸਾਹਿਬੁ ਡਾਢਾ ਹੋਇ ॥"
+      }
+    ]
+  },
+  {
+    "shaka": "twentyfour",
+    "bani": "715,733",
+    "advgutka": [
+      {
+        "id": "MKG",
+        "line": "HHYF",
+        "linetext": "ਭਗਤ ਜਨਾ ਕੀ ਹਰਿ ਜੀਉ ਰਾਖੈ ਜੁਗਿ ਜੁਗਿ ਰਖਦਾ ਆਇਆ ਰਾਮ ॥"
+      }
+    ],
+    "shabads": [
+      {
+        "id": "",
+        "line": ""
+      }
+    ],
+    "amritkirtann": [
+      {
+        "id": "MKG",
+        "line": "HHYF",
+        "linetext": "ਭਗਤ ਜਨਾ ਕੀ ਹਰਿ ਜੀਉ ਰਾਖੈ ਜੁਗਿ ਜੁਗਿ ਰਖਦਾ ਆਇਆ ਰਾਮ ॥"
+      },
+      {
+        "id": "39Z",
+        "line": "XZXA",
+        "linetext": "ਭਗਤ ਜਨਾ ਦਾ ਕਰੇ ਕਰਾਇਆ ।੧੧।"
+      },
+      {
+        "id": "VDM",
+        "line": "T4TC",
+        "linetext": "ਭਗਤ ਜਨਾਂ ਕਉ ਦੇਹੁਰਾ ਫਿਰੈ ॥੩॥੬॥"
+      },
+      {
+        "id": "5Q2",
+        "line": "CLXK",
+        "linetext": "ਭਗਤ ਜਨਾਂ ਹਰਿ ਮਾਂ ਪਿਉ ਬੇਟਾ ।੧੭।"
+      },
+      {
+        "id": "BD3",
+        "line": "S8GG",
+        "linetext": "ਗੁਰਮੁਖਿ ਭਗਤਿ ਕਰਹਿ ਪ੍ਰਭ ਭਾਵਹਿ ਅਨਦਿਨੁ ਨਾਮੁ ਵਖਾਣੇ ॥"
+      },
+      {
+        "id": "44N",
+        "line": "Y9ZU",
+        "linetext": "ਭਗਤਾ ਕਾ ਬੋਲਿਆ ਪਰਵਾਣੁ ਹੈ ਦਰਗਹ ਪਵੈ ਥਾਇ ॥"
+      },
+      {
+        "id": "L72",
+        "line": "EY6T",
+        "linetext": "ਭਗਤ ਜਨਾ ਕੰਉ ਆਪਿ ਤੁਠਾ ਮੇਰਾ ਪਿਆਰਾ ਆਪੇ ਲਇਅਨੁ ਜਨ ਲਾਇ ॥"
+      },
+      {
+        "id": "AB8",
+        "line": "XUFS",
+        "linetext": "ਮਤਾ ਮਸੂਰਤਿ ਅਵਰ ਸਿਆਨਪ ਜਨ ਕਉ ਕਛੂ ਨ ਆਇਓ ॥"
+      },
+      {
+        "id": "AB8",
+        "line": "V8KK",
+        "linetext": "ਪ੍ਰਭ ਕੋ ਭਗਤਿ ਵਛਲੁ ਬਿਰਦਾਇਓ ॥"
+      },
+      {
+        "id": "DH8",
+        "line": "VWUJ",
+        "linetext": "ਭਗਤਾ ਦੀ ਸਦਾ ਤੂ ਰਖਦਾ ਹਰਿ ਜੀਉ ਧੁਰਿ ਤੂ ਰਖਦਾ ਆਇਆ ॥"
+      },
+      {
+        "id": "YSX",
+        "line": "G0W8",
+        "linetext": "ਆਪੇ ਦੈਤ ਲਾਇ ਦਿਤੇ ਸੰਤ ਜਨਾ ਕਉ ਆਪੇ ਰਾਖਾ ਸੋਈ ॥"
+      },
+      {
+        "id": "3FK",
+        "line": "5UXS",
+        "linetext": "ਜੋ ਹਰਿ ਸੇਵਹਿ ਸੰਤ ਭਗਤ ਤਿਨ ਕੇ ਸਭਿ ਪਾਪ ਨਿਵਾਰੀ ॥"
+      },
+      {
+        "id": "Q8V",
+        "line": "SP60",
+        "linetext": "ਹਮਰੀ ਗਣਤ ਨ ਗਣੀਆ ਕਾਈ ਅਪਣਾ ਬਿਰਦੁ ਪਛਾਣਿ ॥"
+      },
+      {
+        "id": "UN3",
+        "line": "TBPH",
+        "linetext": "ਪ੍ਰਹਲਾਦ ਪਠਾਏ ਪੜਨ ਸਾਲ ॥"
+      },
+      {
+        "id": "H6G",
+        "line": "C1ZY",
+        "linetext": "ਆਦਿ ਜੁਗਾਦਿ ਭਗਤਨ ਕਾ ਰਾਖਾ ਉਸਤਤਿ ਕਰਿ ਕਰਿ ਜੀਵਾ ॥"
+      },
+      {
+        "id": "DH9",
+        "line": "UQ4G",
+        "linetext": "ਜਨ ਕੀ ਪੈਜ ਰਖੀ ਕਰਤਾਰੇ ॥੧॥"
+      }
+    ]
+  }
 ]

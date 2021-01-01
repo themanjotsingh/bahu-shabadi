@@ -112,9 +112,9 @@ function getshabadslist(whichlist) {
 
                     var link = document.createElement('a');
                     link.setAttribute("href", theurl);
-                    var json_obj = JSON.parse(Get(apiline + shabads.line));
-                    link.appendChild(document.createTextNode(json_obj.line.gurmukhi.unicode));
+                    link.appendChild(document.createTextNode(shabads.linetext));
                     shabadsdiv.appendChild(link);
+
                 }
 
             }
