@@ -29,7 +29,7 @@ catch(err) {
     location.reload();
 }
 
-$.getJSON("https://api.gurbaninow.com/v2/banis/11",
+$.getJSON("https://api.gurbaninow.com/v2/banis/14",
     function (data) {
 
 
